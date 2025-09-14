@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Piano",
+    "category": "keyboard",
+    "origin": "Italy",
+    "family": "percussion",
+    "description": "A musical instrument played by pressing keys"
+  },
+  {
+    "id": 2,
+    "name": "Guitar",
+    "category": "string",
+    "origin": "Spain",
+    "family": "string",
+    "description": "A fretted musical instrument with strings"
+  },
+  {
+    "id": 3,
+    "name": "Violin",
+    "category": "string",
+    "origin": "Italy",
+    "family": "string",
+    "description": "A bowed string instrument"
+  },
+  {
+    "id": 4,
+    "name": "Trumpet",
+    "category": "brass",
+    "origin": "Germany",
+    "family": "brass",
+    "description": "A brass wind instrument"
+  },
+  {
+    "id": 5,
+    "name": "Flute",
+    "category": "woodwind",
+    "origin": "France",
+    "family": "woodwind",
+    "description": "A woodwind instrument"
+  },
+  {
+    "id": 6,
+    "name": "Drums",
+    "category": "percussion",
+    "origin": "Ancient",
+    "family": "percussion",
+    "description": "A percussion instrument producing sound when struck"
+  },
+  {
+    "id": 7,
+    "name": "Saxophone",
+    "category": "woodwind",
+    "origin": "Belgium",
+    "family": "woodwind",
+    "description": "A single-reed woodwind instrument"
+  },
+  {
+    "id": 8,
+    "name": "Cello",
+    "category": "string",
+    "origin": "Italy",
+    "family": "string",
+    "description": "A large bowed string instrument"
+  }
+]

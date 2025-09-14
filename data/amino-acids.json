@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Alanine",
+    "code_3": "Ala",
+    "code_1": "A",
+    "type": "nonpolar",
+    "essential": false,
+    "molecular_formula": "C3H7NO2",
+    "molecular_weight": 89.09
+  },
+  {
+    "id": 2,
+    "name": "Glycine",
+    "code_3": "Gly",
+    "code_1": "G",
+    "type": "nonpolar",
+    "essential": false,
+    "molecular_formula": "C2H5NO2",
+    "molecular_weight": 75.07
+  },
+  {
+    "id": 3,
+    "name": "Leucine",
+    "code_3": "Leu",
+    "code_1": "L",
+    "type": "nonpolar",
+    "essential": true,
+    "molecular_formula": "C6H13NO2",
+    "molecular_weight": 131.17
+  },
+  {
+    "id": 4,
+    "name": "Lysine",
+    "code_3": "Lys",
+    "code_1": "K",
+    "type": "basic",
+    "essential": true,
+    "molecular_formula": "C6H14N2O2",
+    "molecular_weight": 146.19
+  },
+  {
+    "id": 5,
+    "name": "Phenylalanine",
+    "code_3": "Phe",
+    "code_1": "F",
+    "type": "aromatic",
+    "essential": true,
+    "molecular_formula": "C9H11NO2",
+    "molecular_weight": 165.19
+  },
+  {
+    "id": 6,
+    "name": "Serine",
+    "code_3": "Ser",
+    "code_1": "S",
+    "type": "polar",
+    "essential": false,
+    "molecular_formula": "C3H7NO3",
+    "molecular_weight": 105.09
+  },
+  {
+    "id": 7,
+    "name": "Aspartic acid",
+    "code_3": "Asp",
+    "code_1": "D",
+    "type": "acidic",
+    "essential": false,
+    "molecular_formula": "C4H7NO4",
+    "molecular_weight": 133.10
+  },
+  {
+    "id": 8,
+    "name": "Histidine",
+    "code_3": "His",
+    "code_1": "H",
+    "type": "basic",
+    "essential": true,
+    "molecular_formula": "C6H9N3O2",
+    "molecular_weight": 155.15
+  }
+]
