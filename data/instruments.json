@@ -1,66 +1,8002 @@
 [
   {
     "id": 1,
-    "name": "Piano",
-    "category": "keyboard",
-    "origin": "Italy",
-    "family": "percussion",
-    "description": "A musical instrument played by pressing keys"
+    "name": "ヴァイオリン",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イタリア",
+    "family": "ヴァイオリン族",
+    "description": "4弦の擦弦楽器。顎と肩で支えて演奏。オーケストラの最高音域を担当"
   },
   {
     "id": 2,
-    "name": "Guitar",
-    "category": "string",
-    "origin": "Spain",
-    "family": "string",
-    "description": "A fretted musical instrument with strings"
+    "name": "ヴィオラ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イタリア",
+    "family": "ヴァイオリン族",
+    "description": "ヴァイオリンより一回り大きい中音域楽器。深みのある音色が特徴"
   },
   {
     "id": 3,
-    "name": "Violin",
-    "category": "string",
-    "origin": "Italy",
-    "family": "string",
-    "description": "A bowed string instrument"
+    "name": "チェロ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イタリア",
+    "family": "ヴァイオリン族",
+    "description": "座って演奏する大型擦弦楽器。人間の声に近い豊かな音域"
   },
   {
     "id": 4,
-    "name": "Trumpet",
-    "category": "brass",
-    "origin": "Germany",
-    "family": "brass",
-    "description": "A brass wind instrument"
+    "name": "コントラバス",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イタリア",
+    "family": "ヴァイオリン族",
+    "description": "最も大きい擦弦楽器。オーケストラの最低音域を支える"
   },
   {
     "id": 5,
-    "name": "Flute",
-    "category": "woodwind",
-    "origin": "France",
-    "family": "woodwind",
-    "description": "A woodwind instrument"
+    "name": "ヴィオール",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "スペイン",
+    "family": "ヴィオール族",
+    "description": "ルネサンス・バロック期の古楽器。6-7弦でフレット付き"
   },
   {
     "id": 6,
-    "name": "Drums",
-    "category": "percussion",
-    "origin": "Ancient",
-    "family": "percussion",
-    "description": "A percussion instrument producing sound when struck"
+    "name": "ヴィオラ・ダ・ガンバ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イタリア",
+    "family": "ヴィオール族",
+    "description": "脚で挟んで演奏する古楽器。バロック音楽で重要な役割"
   },
   {
     "id": 7,
-    "name": "Saxophone",
-    "category": "woodwind",
-    "origin": "Belgium",
-    "family": "woodwind",
-    "description": "A single-reed woodwind instrument"
+    "name": "胡弓",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "日本",
+    "family": "胡弓族",
+    "description": "日本唯一の伝統的擦弦楽器。3弦または4弦で哀愁漂う音色"
   },
   {
     "id": 8,
-    "name": "Cello",
-    "category": "string",
-    "origin": "Italy",
-    "family": "string",
-    "description": "A large bowed string instrument"
+    "name": "二胡",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "中国",
+    "family": "胡琴族",
+    "description": "2弦の中国代表的擦弦楽器。蛇皮製共鳴胴で人間の声に近い音色"
+  },
+  {
+    "id": 9,
+    "name": "京胡",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "中国",
+    "family": "胡琴族",
+    "description": "京劇で使用される高音の胡琴。竹製共鳴胴で鋭い音色"
+  },
+  {
+    "id": 10,
+    "name": "板胡",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "中国",
+    "family": "胡琴族",
+    "description": "椰子の殻と木板を使用した胡琴。明るく透明な音色"
+  },
+  {
+    "id": 11,
+    "name": "高胡",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "中国",
+    "family": "胡琴族",
+    "description": "広東音楽で使用される高音二胡。華やかで軽やかな音色"
+  },
+  {
+    "id": 12,
+    "name": "馬頭琴",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "モンゴル",
+    "family": "胡琴族",
+    "description": "馬の頭の彫刻が特徴的なモンゴルの2弦楽器。草原の音楽を象徴"
+  },
+  {
+    "id": 13,
+    "name": "サーランギー",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "サーランギー族",
+    "description": "35弦以上の共鳴弦を持つ擦弦楽器。人間の声に最も近い音色"
+  },
+  {
+    "id": 14,
+    "name": "リラ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ギリシャ",
+    "family": "リラ族",
+    "description": "クレタ島の梨型3弦楽器。民族舞踊音楽で使用"
+  },
+  {
+    "id": 15,
+    "name": "ハーディガーディ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "フランス",
+    "family": "ハーディガーディ族",
+    "description": "回転する円盤で弦を擦る機械式擦弦楽器。ドローン音が特徴"
+  },
+  {
+    "id": 16,
+    "name": "マンドリン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イタリア",
+    "family": "マンドリン族",
+    "description": "8弦（複弦4コース）の撥弦楽器。トレモロ奏法が特徴"
+  },
+  {
+    "id": 17,
+    "name": "マンドラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イタリア",
+    "family": "マンドリン族",
+    "description": "マンドリンの低音版。より深みのある音色"
+  },
+  {
+    "id": 18,
+    "name": "バラライカ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ロシア",
+    "family": "バラライカ族",
+    "description": "三角形の胴体を持つロシアの3弦楽器。民族音楽の象徴"
+  },
+  {
+    "id": 19,
+    "name": "ドムラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ロシア",
+    "family": "ドムラ族",
+    "description": "丸い胴体のロシア撥弦楽器。3-4弦でピック奏法"
+  },
+  {
+    "id": 20,
+    "name": "チター",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ドイツ・オーストリア",
+    "family": "チター族",
+    "description": "平置きして演奏する多弦楽器。アルプス地方の民族楽器"
+  },
+  {
+    "id": 21,
+    "name": "アコースティックギター",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "スペイン",
+    "family": "ギター族",
+    "description": "6弦の撥弦楽器。世界で最も普及した楽器の一つ"
+  },
+  {
+    "id": 22,
+    "name": "クラシックギター",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "スペイン",
+    "family": "ギター族",
+    "description": "ナイロン弦のギター。クラシック音楽やフラメンコで使用"
+  },
+  {
+    "id": 23,
+    "name": "フラメンコギター",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "スペイン",
+    "family": "ギター族",
+    "description": "フラメンコ専用設計。軽量で明るい音色、タップ板付き"
+  },
+  {
+    "id": 24,
+    "name": "エレクトリックギター",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "電気的に音を増幅するギター。ロック・ポップスの主要楽器"
+  },
+  {
+    "id": 25,
+    "name": "ベースギター",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "4-6弦の低音ギター。リズムセクションの要"
+  },
+  {
+    "id": 26,
+    "name": "ウクレレ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ハワイ",
+    "family": "ギター族",
+    "description": "4弦の小型撥弦楽器。ハワイアン音楽の象徴"
+  },
+  {
+    "id": 27,
+    "name": "リュート",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中東",
+    "family": "リュート族",
+    "description": "梨型胴体の古楽器。ルネサンス・バロック音楽で重要"
+  },
+  {
+    "id": 28,
+    "name": "ウード",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中東",
+    "family": "リュート族",
+    "description": "アラブ音楽の代表的撥弦楽器。11-13弦でフレットなし"
+  },
+  {
+    "id": 29,
+    "name": "サズ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "トルコ",
+    "family": "サズ族",
+    "description": "長いネックのトルコ撥弦楽器。3コースの弦"
+  },
+  {
+    "id": 30,
+    "name": "ブズーキ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ギリシャ",
+    "family": "ブズーキ族",
+    "description": "ギリシャの長ネック撥弦楽器。レベティコ音楽で使用"
+  },
+  {
+    "id": 31,
+    "name": "バンジョー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "バンジョー族",
+    "description": "太鼓状の共鳴胴を持つ4-6弦楽器。ブルーグラス音楽の主要楽器"
+  },
+  {
+    "id": 32,
+    "name": "ハープ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "古代エジプト",
+    "family": "ハープ族",
+    "description": "47弦のコンサートハープ。オーケストラで天使的音色を奏でる"
+  },
+  {
+    "id": 33,
+    "name": "アイリッシュハープ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アイルランド",
+    "family": "ハープ族",
+    "description": "アイルランドの国章楽器。金属弦で明るい音色"
+  },
+  {
+    "id": 34,
+    "name": "サウンハープ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ミャンマー",
+    "family": "ハープ族",
+    "description": "船型の13-16弦ハープ。ミャンマー古典音楽の代表楽器"
+  },
+  {
+    "id": 35,
+    "name": "コラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "西アフリカ",
+    "family": "ハープ族",
+    "description": "21弦のひょうたん製ハープ。グリオの語り部音楽で使用"
+  },
+  {
+    "id": 36,
+    "name": "箜篌",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "ハープ族",
+    "description": "古代中国のハープ。シルクロード経由で伝来"
+  },
+  {
+    "id": 37,
+    "name": "箏",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "日本",
+    "family": "箏族",
+    "description": "13弦の平置き撥弦楽器。雅楽から現代音楽まで幅広く使用"
+  },
+  {
+    "id": 38,
+    "name": "古箏",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "箏族",
+    "description": "21弦の中国伝統楽器。華麗で繊細な音色"
+  },
+  {
+    "id": 39,
+    "name": "伽耶琴",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "韓国",
+    "family": "箏族",
+    "description": "12弦の韓国伝統楽器。深みのある音色"
+  },
+  {
+    "id": 40,
+    "name": "琵琶",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "日本",
+    "family": "琵琶族",
+    "description": "4-5弦の日本伝統楽器。平家物語などの語り物で使用"
+  },
+  {
+    "id": 41,
+    "name": "中国琵琶",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "琵琶族",
+    "description": "4弦の中国伝統楽器。高度な技巧と表現力"
+  },
+  {
+    "id": 42,
+    "name": "三味線",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "日本",
+    "family": "三味線族",
+    "description": "3弦の日本伝統楽器。歌舞伎・民謡で広く使用"
+  },
+  {
+    "id": 43,
+    "name": "津軽三味線",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "日本",
+    "family": "三味線族",
+    "description": "太棹の力強い三味線。即興演奏が特徴"
+  },
+  {
+    "id": 44,
+    "name": "シタール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "リュート族",
+    "description": "19-21弦のインド古典楽器。共鳴弦による独特の響き"
+  },
+  {
+    "id": 45,
+    "name": "ヴィーナー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "ヴィーナー族",
+    "description": "南インド古典音楽の代表楽器。7弦と共鳴弦"
+  },
+  {
+    "id": 46,
+    "name": "タンブーラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "タンブーラ族",
+    "description": "4弦のドローン楽器。インド音楽の基音を提供"
+  },
+  {
+    "id": 47,
+    "name": "サロード",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "サロード族",
+    "description": "金属指板の北インド楽器。25弦で深い音色"
+  },
+  {
+    "id": 48,
+    "name": "古琴",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "古琴族",
+    "description": "7弦の中国最古の楽器。文人の精神性を表現"
+  },
+  {
+    "id": 49,
+    "name": "月琴",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "月琴族",
+    "description": "円形胴体の4弦楽器。中国南部の民族音楽で使用"
+  },
+  {
+    "id": 50,
+    "name": "三弦",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "三弦族",
+    "description": "3弦の中国楽器。蛇皮張りで力強い音色"
+  },
+  {
+    "id": 51,
+    "name": "阮",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "阮族",
+    "description": "4弦の中国楽器。大中小の種類があり合奏で使用"
+  },
+  {
+    "id": 52,
+    "name": "柳琴",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中国",
+    "family": "柳琴族",
+    "description": "4弦の高音撥弦楽器。梨型で明るい音色"
+  },
+  {
+    "id": 53,
+    "name": "チャランゴ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ボリビア",
+    "family": "チャランゴ族",
+    "description": "10弦のアンデス楽器。アルマジロの甲羅使用が伝統"
+  },
+  {
+    "id": 54,
+    "name": "カヴァキーニョ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ポルトガル",
+    "family": "カヴァキーニョ族",
+    "description": "4弦の小型ギター。ブラジル音楽でも重要"
+  },
+  {
+    "id": 55,
+    "name": "クアトロ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ベネズエラ",
+    "family": "クアトロ族",
+    "description": "4弦のベネズエラ国民楽器。フォルクローレで使用"
+  },
+  {
+    "id": 56,
+    "name": "ピアノ",
+    "category": "弦楽器-打弦楽器",
+    "origin": "イタリア",
+    "family": "ピアノ族",
+    "description": "88鍵のハンマー式打弦楽器。最も普及した鍵盤楽器"
+  },
+  {
+    "id": 57,
+    "name": "チェンバロ",
+    "category": "弦楽器-打弦楽器",
+    "origin": "イタリア",
+    "family": "チェンバロ族",
+    "description": "撥弦機構の鍵盤楽器。バロック音楽の主要楽器"
+  },
+  {
+    "id": 58,
+    "name": "クラヴィコード",
+    "category": "弦楽器-打弦楽器",
+    "origin": "ドイツ",
+    "family": "クラヴィコード族",
+    "description": "タンジェント式打弦楽器。繊細な表現が可能"
+  },
+  {
+    "id": 59,
+    "name": "ダルシマー",
+    "category": "弦楽器-打弦楽器",
+    "origin": "中東",
+    "family": "ダルシマー族",
+    "description": "小槌で打つ多弦楽器。世界各地に類似楽器"
+  },
+  {
+    "id": 60,
+    "name": "サントゥール",
+    "category": "弦楽器-打弦楽器",
+    "origin": "イラン",
+    "family": "ダルシマー族",
+    "description": "100弦以上のペルシャ打弦楽器。繊細で瞑想的音色"
+  },
+  {
+    "id": 61,
+    "name": "ツィンバロム",
+    "category": "弦楽器-打弦楽器",
+    "origin": "ハンガリー",
+    "family": "ダルシマー族",
+    "description": "大型の打弦楽器。東欧音楽の代表楽器"
+  },
+  {
+    "id": 62,
+    "name": "揚琴",
+    "category": "弦楽器-打弦楽器",
+    "origin": "中国",
+    "family": "ダルシマー族",
+    "description": "中国の打弦楽器。竹製撥で演奏、明るく華やか"
+  },
+  {
+    "id": 63,
+    "name": "クラリネット",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ドイツ",
+    "family": "クラリネット族",
+    "description": "シングルリードの木管楽器。3オクターブ以上の音域"
+  },
+  {
+    "id": 64,
+    "name": "バスクラリネット",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ドイツ",
+    "family": "クラリネット族",
+    "description": "低音域のクラリネット。深く豊かな音色"
+  },
+  {
+    "id": 65,
+    "name": "サクソフォーン",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ベルギー",
+    "family": "サクソフォーン族",
+    "description": "金属製だが木管楽器。ジャズの代表楽器"
+  },
+  {
+    "id": 66,
+    "name": "ソプラノサックス",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ベルギー",
+    "family": "サクソフォーン族",
+    "description": "最高音域のサックス。明るく華やかな音色"
+  },
+  {
+    "id": 67,
+    "name": "アルトサックス",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ベルギー",
+    "family": "サクソフォーン族",
+    "description": "最も一般的なサックス。表現力豊か"
+  },
+  {
+    "id": 68,
+    "name": "テナーサックス",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ベルギー",
+    "family": "サクソフォーン族",
+    "description": "ジャズで人気の中低音サックス。温かい音色"
+  },
+  {
+    "id": 69,
+    "name": "バリトンサックス",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ベルギー",
+    "family": "サクソフォーン族",
+    "description": "低音域のサックス。ビッグバンドで重要"
+  },
+  {
+    "id": 70,
+    "name": "オーボエ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "フランス",
+    "family": "オーボエ族",
+    "description": "ダブルリードの木管楽器。鼻にかかった独特の音色"
+  },
+  {
+    "id": 71,
+    "name": "イングリッシュホルン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "フランス",
+    "family": "オーボエ族",
+    "description": "アルトオーボエ。牧歌的で哀愁漂う音色"
+  },
+  {
+    "id": 72,
+    "name": "ファゴット",
+    "category": "管楽器-複簧管楽器",
+    "origin": "フランス",
+    "family": "ファゴット族",
+    "description": "低音域のダブルリード楽器。温かく豊かな音色"
+  },
+  {
+    "id": 73,
+    "name": "コントラファゴット",
+    "category": "管楽器-複簧管楽器",
+    "origin": "フランス",
+    "family": "ファゴット族",
+    "description": "最低音域の木管楽器。オーケストラの基音"
+  },
+  {
+    "id": 74,
+    "name": "ズルナ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "トルコ",
+    "family": "ズルナ族",
+    "description": "中東の伝統的ダブルリード楽器。祭事で使用"
+  },
+  {
+    "id": 75,
+    "name": "スオナ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "中国",
+    "family": "スオナ族",
+    "description": "中国のダブルリード楽器。大音量で華やか"
+  },
+  {
+    "id": 76,
+    "name": "篳篥",
+    "category": "管楽器-複簧管楽器",
+    "origin": "日本",
+    "family": "篳篥族",
+    "description": "雅楽の主旋律楽器。独特の鼻にかかった音色"
+  },
+  {
+    "id": 77,
+    "name": "チャルメラ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ポルトガル",
+    "family": "チャルメラ族",
+    "description": "屋台ラーメンの音で有名。元はポルトガルの楽器"
+  },
+  {
+    "id": 78,
+    "name": "フルート",
+    "category": "管楽器-無簧管楽器",
+    "origin": "世界各地",
+    "family": "フルート族",
+    "description": "横笛の代表。銀製が主流、華麗な音色"
+  },
+  {
+    "id": 79,
+    "name": "ピッコロ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "イタリア",
+    "family": "フルート族",
+    "description": "最高音域の横笛。鋭く輝かしい音色"
+  },
+  {
+    "id": 80,
+    "name": "アルトフルート",
+    "category": "管楽器-無簧管楽器",
+    "origin": "イギリス",
+    "family": "フルート族",
+    "description": "低音域のフルート。柔らかく温かい音色"
+  },
+  {
+    "id": 81,
+    "name": "バンスリ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インド",
+    "family": "フルート族",
+    "description": "竹製のインド横笛。クリシュナ神の楽器"
+  },
+  {
+    "id": 82,
+    "name": "笛子",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中国",
+    "family": "フルート族",
+    "description": "中国の横笛。竹製で明るく澄んだ音色"
+  },
+  {
+    "id": 83,
+    "name": "篠笛",
+    "category": "管楽器-無簧管楽器",
+    "origin": "日本",
+    "family": "フルート族",
+    "description": "日本の横笛。祭囃子や民謡で使用"
+  },
+  {
+    "id": 84,
+    "name": "能管",
+    "category": "管楽器-無簧管楽器",
+    "origin": "日本",
+    "family": "フルート族",
+    "description": "能楽の横笛。独特のヒシギ奏法"
+  },
+  {
+    "id": 85,
+    "name": "龍笛",
+    "category": "管楽器-無簧管楽器",
+    "origin": "日本",
+    "family": "フルート族",
+    "description": "雅楽の横笛。装飾的な旋律を奏でる"
+  },
+  {
+    "id": 86,
+    "name": "リコーダー",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ドイツ",
+    "family": "リコーダー族",
+    "description": "縦笛の代表。教育楽器として普及"
+  },
+  {
+    "id": 87,
+    "name": "尺八",
+    "category": "管楽器-無簧管楽器",
+    "origin": "日本",
+    "family": "尺八族",
+    "description": "日本の竹製縦笛。禅の精神性を表現"
+  },
+  {
+    "id": 88,
+    "name": "ケーナ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ペルー",
+    "family": "ケーナ族",
+    "description": "アンデスの縦笛。哀愁漂う音色"
+  },
+  {
+    "id": 89,
+    "name": "ナーイ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中東",
+    "family": "ナーイ族",
+    "description": "葦製の中東縦笛。スーフィー音楽で使用"
+  },
+  {
+    "id": 90,
+    "name": "パンフルート",
+    "category": "管楽器-無簧管楽器",
+    "origin": "古代ギリシャ",
+    "family": "パンフルート族",
+    "description": "複数の管を束ねた楽器。牧歌的な音色"
+  },
+  {
+    "id": 91,
+    "name": "オカリナ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "イタリア",
+    "family": "オカリナ族",
+    "description": "陶製の管楽器。素朴で温かい音色"
+  },
+  {
+    "id": 92,
+    "name": "トランペット",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "古代エジプト",
+    "family": "トランペット族",
+    "description": "金管楽器の花形。輝かしく華麗な音色"
+  },
+  {
+    "id": 93,
+    "name": "コルネット",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "フランス",
+    "family": "トランペット族",
+    "description": "柔らかい音色の金管楽器。吹奏楽で使用"
+  },
+  {
+    "id": 94,
+    "name": "フリューゲルホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "トランペット族",
+    "description": "円錐管の柔らかい音色。ジャズで人気"
+  },
+  {
+    "id": 95,
+    "name": "ホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "ホルン族",
+    "description": "巻き管の金管楽器。温かく豊かな音色"
+  },
+  {
+    "id": 96,
+    "name": "トロンボーン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "イタリア",
+    "family": "トロンボーン族",
+    "description": "スライド式金管楽器。滑らかな音程変化"
+  },
+  {
+    "id": 97,
+    "name": "チューバ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "チューバ族",
+    "description": "最低音域の金管楽器。オーケストラの基礎"
+  },
+  {
+    "id": 98,
+    "name": "ユーフォニアム",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "イギリス",
+    "family": "サクソルン族",
+    "description": "中低音の金管楽器。歌うような音色"
+  },
+  {
+    "id": 99,
+    "name": "スーザフォン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "アメリカ",
+    "family": "チューバ族",
+    "description": "マーチング用チューバ。肩に担いで演奏"
+  },
+  {
+    "id": 100,
+    "name": "法螺貝",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "日本",
+    "family": "法螺族",
+    "description": "貝殻の楽器。山伏や戦国時代の合図"
+  },
+  {
+    "id": 101,
+    "name": "ディジュリドゥ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "オーストラリア",
+    "family": "ディジュリドゥ族",
+    "description": "アボリジニの聖なる楽器。循環呼吸で演奏"
+  },
+  {
+    "id": 102,
+    "name": "アルプホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "スイス",
+    "family": "ホルン族",
+    "description": "アルプスの長大な木製ホルン。牧歌的音色"
+  },
+  {
+    "id": 103,
+    "name": "ショファー",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "イスラエル",
+    "family": "ショファー族",
+    "description": "羊の角笛。ユダヤ教の宗教儀式で使用"
+  },
+  {
+    "id": 104,
+    "name": "コンク",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "インド・チベット",
+    "family": "コンク族",
+    "description": "巻貝の楽器。仏教やヒンドゥー教の儀式で使用"
+  },
+  {
+    "id": 105,
+    "name": "パイプオルガン",
+    "category": "管楽器-多管楽器",
+    "origin": "古代ギリシャ",
+    "family": "オルガン族",
+    "description": "巨大な多管楽器。教会音楽の王者"
+  },
+  {
+    "id": 106,
+    "name": "ハーモニウム",
+    "category": "管楽器-多管楽器",
+    "origin": "フランス",
+    "family": "オルガン族",
+    "description": "足踏み式リード・オルガン。インド音楽でも使用"
+  },
+  {
+    "id": 107,
+    "name": "アコーディオン",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "アコーディオン族",
+    "description": "蛇腹式携帯オルガン。タンゴやミュゼットで活躍"
+  },
+  {
+    "id": 108,
+    "name": "バンドネオン",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "アコーディオン族",
+    "description": "タンゴ専用アコーディオン。哀愁漂う音色"
+  },
+  {
+    "id": 109,
+    "name": "コンサーティーナ",
+    "category": "管楽器-多管楽器",
+    "origin": "イギリス",
+    "family": "アコーディオン族",
+    "description": "六角形の小型アコーディオン。アイリッシュ音楽で使用"
+  },
+  {
+    "id": 110,
+    "name": "ハーモニカ",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "ハーモニカ族",
+    "description": "口で吹く小型リード楽器。ブルースの象徴"
+  },
+  {
+    "id": 111,
+    "name": "鍵盤ハーモニカ",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "ハーモニカ族",
+    "description": "鍵盤付きハーモニカ。教育楽器として普及"
+  },
+  {
+    "id": 112,
+    "name": "笙",
+    "category": "管楽器-多管楽器",
+    "origin": "中国",
+    "family": "笙族",
+    "description": "17管の雅楽楽器。和音を奏でる唯一の和楽器"
+  },
+  {
+    "id": 113,
+    "name": "ケーン",
+    "category": "管楽器-多管楽器",
+    "origin": "タイ・ラオス",
+    "family": "ケーン族",
+    "description": "竹製の多管楽器。東南アジアの民族音楽"
+  },
+  {
+    "id": 114,
+    "name": "バグパイプ",
+    "category": "管楽器-多管楽器",
+    "origin": "スコットランド",
+    "family": "バグパイプ族",
+    "description": "袋付き多管楽器。スコットランドの象徴"
+  },
+  {
+    "id": 115,
+    "name": "ウイリアンパイプ",
+    "category": "管楽器-多管楽器",
+    "origin": "アイルランド",
+    "family": "バグパイプ族",
+    "description": "肘で袋を押すバグパイプ。繊細な音色"
+  },
+  {
+    "id": 116,
+    "name": "ガイタ",
+    "category": "管楽器-多管楽器",
+    "origin": "スペイン",
+    "family": "バグパイプ族",
+    "description": "ガリシア地方のバグパイプ。ケルト文化の名残"
+  },
+  {
+    "id": 117,
+    "name": "ティンパニ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中東",
+    "family": "ティンパニ族",
+    "description": "音程調整可能な大型太鼓。オーケストラの基礎"
+  },
+  {
+    "id": 118,
+    "name": "スネアドラム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ヨーロッパ",
+    "family": "ドラム族",
+    "description": "響き線付き小太鼓。行進曲やロックで重要"
+  },
+  {
+    "id": 119,
+    "name": "バスドラム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "トルコ",
+    "family": "ドラム族",
+    "description": "大太鼓。深く響く低音でリズムの基礎"
+  },
+  {
+    "id": 120,
+    "name": "タンバリン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中東",
+    "family": "タンバリン族",
+    "description": "鈴付き枠太鼓。世界中で使用される打楽器"
+  },
+  {
+    "id": 121,
+    "name": "ボンゴ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "キューバ",
+    "family": "ボンゴ族",
+    "description": "対の小型太鼓。ラテン音楽の代表楽器"
+  },
+  {
+    "id": 122,
+    "name": "コンガ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "キューバ",
+    "family": "コンガ族",
+    "description": "樽型の太鼓。サルサやラテンジャズで重要"
+  },
+  {
+    "id": 123,
+    "name": "ジャンベ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "西アフリカ",
+    "family": "ジャンベ族",
+    "description": "杯型の太鼓。手で叩き多彩な音色を表現"
+  },
+  {
+    "id": 124,
+    "name": "トーキングドラム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "西アフリカ",
+    "family": "トーキングドラム族",
+    "description": "砂時計型で音程変化可能。言葉を模倣"
+  },
+  {
+    "id": 125,
+    "name": "タブラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "タブラ族",
+    "description": "北インド古典音楽の太鼓セット。複雑なリズム"
+  },
+  {
+    "id": 126,
+    "name": "ムリダンガム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "ムリダンガム族",
+    "description": "南インド古典音楽の両面太鼓。深い音色"
+  },
+  {
+    "id": 127,
+    "name": "ドール",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "ドール族",
+    "description": "両面太鼓。民謡やバングラ音楽で使用"
+  },
+  {
+    "id": 128,
+    "name": "パカワジ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "パカワジ族",
+    "description": "北インドの古典太鼓。ドゥルパド音楽で使用"
+  },
+  {
+    "id": 129,
+    "name": "太鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "日本の伝統太鼓。祭りや芸能で幅広く使用"
+  },
+  {
+    "id": 130,
+    "name": "締太鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "紐で締める太鼓。歌舞伎や民謡で使用"
+  },
+  {
+    "id": 131,
+    "name": "小鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "日本",
+    "family": "鼓族",
+    "description": "能楽の小型鼓。間の芸術を表現"
+  },
+  {
+    "id": 132,
+    "name": "大鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "日本",
+    "family": "鼓族",
+    "description": "能楽の大型鼓。乾いた鋭い音"
+  },
+  {
+    "id": 133,
+    "name": "鞨鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "日本",
+    "family": "鞨鼓族",
+    "description": "雅楽の太鼓。両面を桴で打つ"
+  },
+  {
+    "id": 134,
+    "name": "ボドラン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アイルランド",
+    "family": "ボドラン族",
+    "description": "枠太鼓。アイリッシュ音楽のリズムを支える"
+  },
+  {
+    "id": 135,
+    "name": "ダフ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中東",
+    "family": "ダフ族",
+    "description": "枠太鼓。スーフィー音楽や民族舞踊で使用"
+  },
+  {
+    "id": 136,
+    "name": "ベンディル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "北アフリカ",
+    "family": "ベンディル族",
+    "description": "枠太鼓。モロッコやアルジェリアの音楽"
+  },
+  {
+    "id": 137,
+    "name": "カホン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ペルー",
+    "family": "カホン族",
+    "description": "箱型打楽器。座って演奏、現代音楽で人気"
+  },
+  {
+    "id": 138,
+    "name": "ドラムセット",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アメリカ",
+    "family": "ドラムセット族",
+    "description": "複数の太鼓とシンバルのセット。現代音楽の要"
+  },
+  {
+    "id": 139,
+    "name": "シロフォン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "東南アジア",
+    "family": "木琴族",
+    "description": "木製音板の打楽器。明るく乾いた音色"
+  },
+  {
+    "id": 140,
+    "name": "マリンバ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アフリカ・中南米",
+    "family": "木琴族",
+    "description": "共鳴管付き木琴。温かく豊かな音色"
+  },
+  {
+    "id": 141,
+    "name": "ヴィブラフォン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "鉄琴族",
+    "description": "電動ファン付き鉄琴。ジャズで人気"
+  },
+  {
+    "id": 142,
+    "name": "グロッケンシュピール",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ドイツ",
+    "family": "鉄琴族",
+    "description": "小型鉄琴。輝かしくきらめく音色"
+  },
+  {
+    "id": 143,
+    "name": "チューブラーベル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "イギリス",
+    "family": "鐘族",
+    "description": "管状の鐘。教会の鐘を模した音色"
+  },
+  {
+    "id": 144,
+    "name": "シンバル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "トルコ",
+    "family": "シンバル族",
+    "description": "金属製円盤。華やかでドラマチックな音響効果"
+  },
+  {
+    "id": 145,
+    "name": "ゴング",
+    "category": "打楽器-体鳴楽器",
+    "origin": "東南アジア",
+    "family": "ゴング族",
+    "description": "大型金属円盤。荘厳で神秘的な響き"
+  },
+  {
+    "id": 146,
+    "name": "タムタム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "ゴング族",
+    "description": "平面ゴング。深く広がる響き"
+  },
+  {
+    "id": 147,
+    "name": "ガムラン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ガムラン族",
+    "description": "青銅製打楽器群。バリやジャワの宮廷音楽"
+  },
+  {
+    "id": 148,
+    "name": "スティールパン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "トリニダード・トバゴ",
+    "family": "スティールパン族",
+    "description": "オイルドラムから作る音階打楽器。カリブの象徴"
+  },
+  {
+    "id": 149,
+    "name": "カスタネット",
+    "category": "打楽器-体鳴楽器",
+    "origin": "スペイン",
+    "family": "カスタネット族",
+    "description": "貝殻型の木製打楽器。フラメンコの必需品"
+  },
+  {
+    "id": 150,
+    "name": "クラベス",
+    "category": "打楽器-体鳴楽器",
+    "origin": "キューバ",
+    "family": "クラベス族",
+    "description": "2本の木棒。ラテン音楽の基本リズム楽器"
+  },
+  {
+    "id": 151,
+    "name": "マラカス",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中南米",
+    "family": "マラカス族",
+    "description": "振る楽器。種や小石を入れたひょうたん"
+  },
+  {
+    "id": 152,
+    "name": "シェイカー",
+    "category": "打楽器-体鳴楽器",
+    "origin": "世界各地",
+    "family": "シェイカー族",
+    "description": "振る楽器の総称。様々な形状と音色"
+  },
+  {
+    "id": 153,
+    "name": "レインスティック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "チリ",
+    "family": "レインスティック族",
+    "description": "雨音を模倣する筒状楽器。サボテンの幹使用"
+  },
+  {
+    "id": 154,
+    "name": "トライアングル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ヨーロッパ",
+    "family": "トライアングル族",
+    "description": "三角形の金属棒。澄んだ高音で彩りを添える"
+  },
+  {
+    "id": 155,
+    "name": "ウィンドチャイム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "東アジア",
+    "family": "チャイム族",
+    "description": "風鈴型打楽器。風のような繊細な音色"
+  },
+  {
+    "id": 156,
+    "name": "ベル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "世界各地",
+    "family": "鐘族",
+    "description": "鐘の総称。宗教儀式から音楽まで幅広く使用"
+  },
+  {
+    "id": 157,
+    "name": "カウベル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "スイス",
+    "family": "ベル族",
+    "description": "牛の首につける鈴。ラテン音楽でも使用"
+  },
+  {
+    "id": 158,
+    "name": "アゴゴ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "西アフリカ",
+    "family": "アゴゴ族",
+    "description": "2音の金属ベル。ブラジル音楽で重要"
+  },
+  {
+    "id": 159,
+    "name": "木魚",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "木魚族",
+    "description": "仏教の読経用打楽器。中空の木製"
+  },
+  {
+    "id": 160,
+    "name": "拍子木",
+    "category": "打楽器-体鳴楽器",
+    "origin": "日本",
+    "family": "拍子木族",
+    "description": "2本の木片を打ち合わせる。歌舞伎の効果音"
+  },
+  {
+    "id": 161,
+    "name": "ささら",
+    "category": "打楽器-体鳴楽器",
+    "origin": "日本",
+    "family": "ささら族",
+    "description": "竹や木の薄板を束ねた楽器。民俗芸能で使用"
+  },
+  {
+    "id": 162,
+    "name": "編鐘",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "編鐘族",
+    "description": "複数の青銅鐘のセット。古代中国の宮廷楽器"
+  },
+  {
+    "id": 163,
+    "name": "編磬",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "編磬族",
+    "description": "L字型石板の音階楽器。古代中国の儀礼音楽"
+  },
+  {
+    "id": 164,
+    "name": "バラフォン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "西アフリカ",
+    "family": "木琴族",
+    "description": "ひょうたん共鳴器付き木琴。マリンバの原型"
+  },
+  {
+    "id": 165,
+    "name": "カリンバ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アフリカ",
+    "family": "カリンバ族",
+    "description": "親指ピアノ。金属片を弾いて演奏"
+  },
+  {
+    "id": 166,
+    "name": "ムビラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ジンバブエ",
+    "family": "ムビラ族",
+    "description": "親指ピアノの一種。祖先崇拝の儀式で使用"
+  },
+  {
+    "id": 167,
+    "name": "ボディパーカッション",
+    "category": "打楽器-体鳴楽器",
+    "origin": "世界各地",
+    "family": "人体",
+    "description": "手拍子・足踏み・体を叩く。最も原始的な楽器"
+  },
+  {
+    "id": 168,
+    "name": "ホイッスル",
+    "category": "気鳴楽器",
+    "origin": "世界各地",
+    "family": "笛族",
+    "description": "口笛型の楽器。信号や音楽に使用"
+  },
+  {
+    "id": 169,
+    "name": "サイレン",
+    "category": "気鳴楽器",
+    "origin": "フランス",
+    "family": "サイレン族",
+    "description": "回転円盤による音響装置。警報や効果音"
+  },
+  {
+    "id": 170,
+    "name": "ブルロアラー",
+    "category": "気鳴楽器",
+    "origin": "オーストラリア",
+    "family": "ブルロアラー族",
+    "description": "回転させて音を出す板。アボリジニの儀式楽器"
+  },
+  {
+    "id": 171,
+    "name": "エオリアンハープ",
+    "category": "気鳴楽器",
+    "origin": "古代ギリシャ",
+    "family": "ハープ族",
+    "description": "風で鳴る弦楽器。自然の音楽"
+  },
+  {
+    "id": 172,
+    "name": "テルミン",
+    "category": "電子楽器",
+    "origin": "ロシア",
+    "family": "テルミン族",
+    "description": "手を近づけて演奏する最初期の電子楽器"
+  },
+  {
+    "id": 173,
+    "name": "オンドマルトノ",
+    "category": "電子楽器",
+    "origin": "フランス",
+    "family": "オンドマルトノ族",
+    "description": "鍵盤式初期電子楽器。SF映画音楽で使用"
+  },
+  {
+    "id": 174,
+    "name": "メロトロン",
+    "category": "電子楽器",
+    "origin": "イギリス",
+    "family": "メロトロン族",
+    "description": "テープ再生式鍵盤楽器。プログレで活躍"
+  },
+  {
+    "id": 175,
+    "name": "シンセサイザー",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "電子的に音を合成する楽器。現代音楽の主力"
+  },
+  {
+    "id": 176,
+    "name": "アナログシンセ",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "電圧制御の温かい音色。モーグが代表的"
+  },
+  {
+    "id": 177,
+    "name": "デジタルシンセ",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "デジタル信号処理。DX7が革命を起こす"
+  },
+  {
+    "id": 178,
+    "name": "サンプラー",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "サンプラー族",
+    "description": "音をサンプリングして再生。ヒップホップで重要"
+  },
+  {
+    "id": 179,
+    "name": "ドラムマシン",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "ドラムマシン族",
+    "description": "電子ドラム音源。TR-808が伝説的"
+  },
+  {
+    "id": 180,
+    "name": "シーケンサー",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シーケンサー族",
+    "description": "自動演奏装置。電子音楽制作の要"
+  },
+  {
+    "id": 181,
+    "name": "ヴォコーダー",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "ヴォコーダー族",
+    "description": "声を電子的に変調。ロボットボイス効果"
+  },
+  {
+    "id": 182,
+    "name": "エレクトリックピアノ",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "電気ピアノ族",
+    "description": "フェンダーローズやウーリッツァー。独特の音色"
+  },
+  {
+    "id": 183,
+    "name": "ハモンドオルガン",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "電気オルガン族",
+    "description": "トーンホイール式。ジャズ・ロックの定番"
+  },
+  {
+    "id": 184,
+    "name": "エレクトリックギター",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "ピックアップで音を電気信号に変換"
+  },
+  {
+    "id": 185,
+    "name": "エレクトリックベース",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "ベース族",
+    "description": "電気増幅する低音弦楽器。現代音楽の基礎"
+  },
+  {
+    "id": 186,
+    "name": "エレクトリックヴァイオリン",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "ヴァイオリン族",
+    "description": "電気増幅するヴァイオリン。クロスオーバー音楽"
+  },
+  {
+    "id": 187,
+    "name": "チャップマンスティック",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "スティック族",
+    "description": "タッピング専用弦楽器。両手で演奏"
+  },
+  {
+    "id": 188,
+    "name": "キーター",
+    "category": "電気楽器",
+    "origin": "日本",
+    "family": "キーター族",
+    "description": "鍵盤付きギター。独特の演奏スタイル"
+  },
+  {
+    "id": 189,
+    "name": "エレクトリックシタール",
+    "category": "電気楽器",
+    "origin": "インド・アメリカ",
+    "family": "シタール族",
+    "description": "電気増幅シタール。サイケデリックロックで使用"
+  },
+  {
+    "id": 190,
+    "name": "篠笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "竹製横笛。祭囃子の主要楽器"
+  },
+  {
+    "id": 191,
+    "name": "尺八",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "尺八族",
+    "description": "竹製縦笛。禅の精神性を表現"
+  },
+  {
+    "id": 192,
+    "name": "能管",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "能楽の横笛。独特のヒシギ音"
+  },
+  {
+    "id": 193,
+    "name": "龍笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "雅楽の横笛。天を舞う龍を表現"
+  },
+  {
+    "id": 194,
+    "name": "篳篥",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "篳篥族",
+    "description": "雅楽のダブルリード楽器。主旋律担当"
+  },
+  {
+    "id": 195,
+    "name": "笙",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笙族",
+    "description": "17管の雅楽楽器。天から差し込む光を表現"
+  },
+  {
+    "id": 196,
+    "name": "箏",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "箏族",
+    "description": "13弦の撥弦楽器。生田流・山田流"
+  },
+  {
+    "id": 197,
+    "name": "三味線",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "三味線族",
+    "description": "3弦撥弦楽器。長唄・清元・義太夫"
+  },
+  {
+    "id": 198,
+    "name": "琵琶",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "琵琶族",
+    "description": "4-5弦の撥弦楽器。平家・薩摩・筑前"
+  },
+  {
+    "id": 199,
+    "name": "胡弓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "胡弓族",
+    "description": "日本唯一の擦弦楽器。哀愁漂う音色"
+  },
+  {
+    "id": 200,
+    "name": "太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "様々なサイズの太鼓。祭りや芸能"
+  },
+  {
+    "id": 201,
+    "name": "小鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鼓族",
+    "description": "能楽の小型鼓。調緒で音程調整"
+  },
+  {
+    "id": 202,
+    "name": "大鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鼓族",
+    "description": "能楽の大型鼓。火で乾燥させた皮"
+  },
+  {
+    "id": 203,
+    "name": "鞨鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鞨鼓族",
+    "description": "雅楽の太鼓。リズムの要"
+  },
+  {
+    "id": 204,
+    "name": "太神楽",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太神楽族",
+    "description": "獅子舞の太鼓。祭礼芸能"
+  },
+  {
+    "id": 205,
+    "name": "拍子木",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "拍子木族",
+    "description": "歌舞伎の効果音。場面転換を知らせる"
+  },
+  {
+    "id": 206,
+    "name": "ささら",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "ささら族",
+    "description": "竹板を束ねた楽器。田楽で使用"
+  },
+  {
+    "id": 207,
+    "name": "当り鉦",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鉦族",
+    "description": "小型の鉦。祭囃子で使用"
+  },
+  {
+    "id": 208,
+    "name": "木魚",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "木魚族",
+    "description": "読経用打楽器。リズムを刻む"
+  },
+  {
+    "id": 209,
+    "name": "鈴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鈴族",
+    "description": "神楽鈴など。清めの音"
+  },
+  {
+    "id": 210,
+    "name": "法螺貝",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "法螺族",
+    "description": "山伏の楽器。戦国時代の合図"
+  },
+  {
+    "id": 211,
+    "name": "ディジュリドゥ",
+    "category": "民族楽器",
+    "origin": "オーストラリア",
+    "family": "ディジュリドゥ族",
+    "description": "アボリジニの聖なる楽器。循環呼吸奏法"
+  },
+  {
+    "id": 212,
+    "name": "コラ",
+    "category": "民族楽器",
+    "origin": "西アフリカ",
+    "family": "ハープ族",
+    "description": "21弦のひょうたんハープ。グリオの楽器"
+  },
+  {
+    "id": 213,
+    "name": "ンゴニ",
+    "category": "民族楽器",
+    "origin": "西アフリカ",
+    "family": "リュート族",
+    "description": "3-6弦の西アフリカリュート。ブルースの原型"
+  },
+  {
+    "id": 214,
+    "name": "バラフォン",
+    "category": "民族楽器",
+    "origin": "西アフリカ",
+    "family": "木琴族",
+    "description": "ひょうたん共鳴器付き木琴。祭事で使用"
+  },
+  {
+    "id": 215,
+    "name": "ジャンベ",
+    "category": "民族楽器",
+    "origin": "西アフリカ",
+    "family": "太鼓族",
+    "description": "手で叩く杯型太鼓。コミュニティ音楽"
+  },
+  {
+    "id": 216,
+    "name": "トーキングドラム",
+    "category": "民族楽器",
+    "origin": "西アフリカ",
+    "family": "太鼓族",
+    "description": "音程変化可能な砂時計型太鼓。通信手段"
+  },
+  {
+    "id": 217,
+    "name": "カリンバ",
+    "category": "民族楽器",
+    "origin": "アフリカ",
+    "family": "親指ピアノ族",
+    "description": "親指で弾く金属片楽器。癒しの音色"
+  },
+  {
+    "id": 218,
+    "name": "ムビラ",
+    "category": "民族楽器",
+    "origin": "ジンバブエ",
+    "family": "親指ピアノ族",
+    "description": "儀式用親指ピアノ。祖先との交信"
+  },
+  {
+    "id": 219,
+    "name": "ケーナ",
+    "category": "民族楽器",
+    "origin": "ペルー",
+    "family": "笛族",
+    "description": "アンデスの縦笛。インカ帝国の楽器"
+  },
+  {
+    "id": 220,
+    "name": "サンポーニャ",
+    "category": "民族楽器",
+    "origin": "ボリビア",
+    "family": "パンフルート族",
+    "description": "アンデスのパンフルート。フォルクローレ"
+  },
+  {
+    "id": 221,
+    "name": "チャランゴ",
+    "category": "民族楽器",
+    "origin": "ボリビア",
+    "family": "リュート族",
+    "description": "10弦小型弦楽器。アルマジロの甲羅使用"
+  },
+  {
+    "id": 222,
+    "name": "バンドネオン",
+    "category": "民族楽器",
+    "origin": "アルゼンチン",
+    "family": "アコーディオン族",
+    "description": "タンゴ専用アコーディオン。哀愁の音色"
+  },
+  {
+    "id": 223,
+    "name": "ガイタ",
+    "category": "民族楽器",
+    "origin": "コロンビア",
+    "family": "笛族",
+    "description": "コロンビアの縦笛。クンビア音楽"
+  },
+  {
+    "id": 224,
+    "name": "マリンバ",
+    "category": "民族楽器",
+    "origin": "グアテマラ",
+    "family": "木琴族",
+    "description": "中米の国民楽器。共鳴管付き木琴"
+  },
+  {
+    "id": 225,
+    "name": "スティールパン",
+    "category": "民族楽器",
+    "origin": "トリニダード・トバゴ",
+    "family": "スティールパン族",
+    "description": "オイルドラムから作る音階打楽器。カリプソ"
+  },
+  {
+    "id": 226,
+    "name": "アルパ",
+    "category": "民族楽器",
+    "origin": "パラグアイ",
+    "family": "ハープ族",
+    "description": "ラテンアメリカのハープ。36-38弦"
+  },
+  {
+    "id": 227,
+    "name": "クアトロ",
+    "category": "民族楽器",
+    "origin": "ベネズエラ",
+    "family": "ギター族",
+    "description": "4弦の小型ギター。ベネズエラ国民楽器"
+  },
+  {
+    "id": 228,
+    "name": "カヴァキーニョ",
+    "category": "民族楽器",
+    "origin": "ブラジル",
+    "family": "ギター族",
+    "description": "4弦小型ギター。サンバやショーロ"
+  },
+  {
+    "id": 229,
+    "name": "ベリンバウ",
+    "category": "民族楽器",
+    "origin": "ブラジル",
+    "family": "弓楽器族",
+    "description": "1弦の弓楽器。カポエイラの伴奏"
+  },
+  {
+    "id": 230,
+    "name": "クイーカ",
+    "category": "民族楽器",
+    "origin": "ブラジル",
+    "family": "摩擦太鼓族",
+    "description": "摩擦で音を出す太鼓。動物の鳴き声模倣"
+  },
+  {
+    "id": 231,
+    "name": "バラライカ",
+    "category": "民族楽器",
+    "origin": "ロシア",
+    "family": "バラライカ族",
+    "description": "三角形胴体の3弦楽器。ロシア民族音楽"
+  },
+  {
+    "id": 232,
+    "name": "グースリ",
+    "category": "民族楽器",
+    "origin": "ロシア",
+    "family": "チター族",
+    "description": "ロシアの平置き弦楽器。叙事詩の伴奏"
+  },
+  {
+    "id": 233,
+    "name": "カンテレ",
+    "category": "民族楽器",
+    "origin": "フィンランド",
+    "family": "チター族",
+    "description": "フィンランドの国民楽器。カレワラ叙事詩"
+  },
+  {
+    "id": 234,
+    "name": "ブズーキ",
+    "category": "民族楽器",
+    "origin": "ギリシャ",
+    "family": "リュート族",
+    "description": "ギリシャの長ネック弦楽器。レベティコ音楽"
+  },
+  {
+    "id": 235,
+    "name": "ウード",
+    "category": "民族楽器",
+    "origin": "中東",
+    "family": "リュート族",
+    "description": "アラブ音楽の中心楽器。リュートの原型"
+  },
+  {
+    "id": 236,
+    "name": "レベック",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ヨーロッパ",
+    "family": "レベック族",
+    "description": "中世・ルネサンスの梨型擦弦楽器。3-5弦"
+  },
+  {
+    "id": 237,
+    "name": "ニッケルハルパ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "スウェーデン",
+    "family": "ハルパ族",
+    "description": "鍵盤付き擦弦楽器。16弦で共鳴弦付き"
+  },
+  {
+    "id": 238,
+    "name": "クルース",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ウェールズ",
+    "family": "クルース族",
+    "description": "ウェールズの6弦擦弦楽器。箱型胴体"
+  },
+  {
+    "id": 239,
+    "name": "エスラジ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "エスラジ族",
+    "description": "ベンガル地方の擦弦楽器。シタールとサーランギーの中間"
+  },
+  {
+    "id": 240,
+    "name": "ディルルバ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "ディルルバ族",
+    "description": "シク教音楽の擦弦楽器。約20弦"
+  },
+  {
+    "id": 241,
+    "name": "ケマンチェ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イラン",
+    "family": "ケマンチェ族",
+    "description": "スパイク付き3-4弦擦弦楽器。ペルシャ音楽"
+  },
+  {
+    "id": 242,
+    "name": "リラ・ダ・ブラッチョ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イタリア",
+    "family": "ヴィオラ族",
+    "description": "ルネサンス期の腕で持つ擦弦楽器"
+  },
+  {
+    "id": 243,
+    "name": "ポシェット",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "フランス",
+    "family": "ポシェット族",
+    "description": "ダンス教師用の小型ヴァイオリン。ポケットサイズ"
+  },
+  {
+    "id": 244,
+    "name": "ラバーブ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "アフガニスタン",
+    "family": "ラバーブ族",
+    "description": "アフガン民族楽器。短い弓で演奏"
+  },
+  {
+    "id": 245,
+    "name": "イギル",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "トゥヴァ",
+    "family": "イギル族",
+    "description": "トゥヴァの2弦擦弦楽器。倍音唱法と共演"
+  },
+  {
+    "id": 246,
+    "name": "タール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イラン",
+    "family": "タール族",
+    "description": "イランの長ネック撥弦楽器。6弦でダブルボディ"
+  },
+  {
+    "id": 247,
+    "name": "セタール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イラン",
+    "family": "セタール族",
+    "description": "ペルシャの4弦撥弦楽器。繊細な音色"
+  },
+  {
+    "id": 248,
+    "name": "ドタール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中央アジア",
+    "family": "ドタール族",
+    "description": "2弦の中央アジア撥弦楽器。シルクロードの楽器"
+  },
+  {
+    "id": 249,
+    "name": "タンブール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "トルコ",
+    "family": "タンブール族",
+    "description": "トルコ古典音楽の長ネック楽器。微分音フレット"
+  },
+  {
+    "id": 250,
+    "name": "カーヌーン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "中東",
+    "family": "カーヌーン族",
+    "description": "台形の78弦撥弦楽器。アラブ音楽の花形"
+  },
+  {
+    "id": 251,
+    "name": "サントゥーリ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ギリシャ",
+    "family": "ダルシマー族",
+    "description": "ギリシャの打弦楽器。115弦以上"
+  },
+  {
+    "id": 252,
+    "name": "オートハープ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "チター族",
+    "description": "和音バー付きチター。フォーク音楽で使用"
+  },
+  {
+    "id": 253,
+    "name": "アパラチアンダルシマー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "ダルシマー族",
+    "description": "アメリカ山岳地帯の撥弦楽器。3-4弦"
+  },
+  {
+    "id": 254,
+    "name": "バンドゥリア",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "スペイン",
+    "family": "バンドゥリア族",
+    "description": "スペインの12弦（6コース）撥弦楽器"
+  },
+  {
+    "id": 255,
+    "name": "ラウド",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "スペイン",
+    "family": "ラウド族",
+    "description": "スペインの梨型12弦楽器。バロック音楽"
+  },
+  {
+    "id": 256,
+    "name": "ティオルボ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イタリア",
+    "family": "リュート族",
+    "description": "長ネックの大型リュート。14-19弦"
+  },
+  {
+    "id": 257,
+    "name": "アーチリュート",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イタリア",
+    "family": "リュート族",
+    "description": "追加低音弦付きリュート。バロック通奏低音"
+  },
+  {
+    "id": 258,
+    "name": "ビウエラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "スペイン",
+    "family": "ビウエラ族",
+    "description": "ルネサンス期スペインの6コース撥弦楽器"
+  },
+  {
+    "id": 259,
+    "name": "シターン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イギリス",
+    "family": "シターン族",
+    "description": "ルネサンス期の金属弦楽器。ワイヤー弦"
+  },
+  {
+    "id": 260,
+    "name": "パンドゥーラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ウクライナ",
+    "family": "パンドゥーラ族",
+    "description": "ウクライナ国民楽器。60弦以上の半ハープ型"
+  },
+  {
+    "id": 261,
+    "name": "トルバン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ウクライナ",
+    "family": "リュート族",
+    "description": "ウクライナのバロックリュート。追加低音弦"
+  },
+  {
+    "id": 262,
+    "name": "コムズ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "キルギス",
+    "family": "コムズ族",
+    "description": "キルギスの3弦撥弦楽器。遊牧民の音楽"
+  },
+  {
+    "id": 263,
+    "name": "ドンブラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "カザフスタン",
+    "family": "ドンブラ族",
+    "description": "カザフの2弦楽器。遊牧民の叙事詩伴奏"
+  },
+  {
+    "id": 264,
+    "name": "パンドゥリ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ジョージア",
+    "family": "パンドゥリ族",
+    "description": "ジョージアの3弦楽器。多声合唱の伴奏"
+  },
+  {
+    "id": 265,
+    "name": "チョングリ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ジョージア",
+    "family": "チョングリ族",
+    "description": "ジョージアの4弦楽器。舞踊音楽で使用"
+  },
+  {
+    "id": 266,
+    "name": "タンブリツァ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "クロアチア",
+    "family": "タンブリツァ族",
+    "description": "バルカン地方の長ネック楽器。様々なサイズ"
+  },
+  {
+    "id": 267,
+    "name": "ゴピチャンド",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "ゴピチャンド族",
+    "description": "1弦の民族楽器。音程を変化させる独特の構造"
+  },
+  {
+    "id": 268,
+    "name": "エクタラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "エクタラ族",
+    "description": "1弦の遊行僧楽器。瓢箪製共鳴胴"
+  },
+  {
+    "id": 269,
+    "name": "ハックブレット",
+    "category": "弦楽器-打弦楽器",
+    "origin": "ドイツ",
+    "family": "ダルシマー族",
+    "description": "ドイツ語圏の打弦楽器。アルプス民族音楽"
+  },
+  {
+    "id": 270,
+    "name": "大正琴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "大正琴族",
+    "description": "大正時代発明の鍵盤付き弦楽器。5-6弦"
+  },
+  {
+    "id": 271,
+    "name": "一弦琴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "一弦琴族",
+    "description": "1弦の日本伝統楽器。須磨琴とも呼ばれる"
+  },
+  {
+    "id": 272,
+    "name": "二弦琴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "二弦琴族",
+    "description": "2弦の日本楽器。八雲琴の別名"
+  },
+  {
+    "id": 273,
+    "name": "和琴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "和琴族",
+    "description": "6弦の日本古来の琴。神楽で使用"
+  },
+  {
+    "id": 274,
+    "name": "楽琵琶",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "琵琶族",
+    "description": "雅楽用の4弦琵琶。大型で装飾的"
+  },
+  {
+    "id": 275,
+    "name": "五弦琵琶",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "琵琶族",
+    "description": "正倉院に保存される5弦の古代琵琶"
+  },
+  {
+    "id": 276,
+    "name": "バセットホルン",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ドイツ",
+    "family": "クラリネット族",
+    "description": "アルトクラリネット。モーツァルト作品で有名"
+  },
+  {
+    "id": 277,
+    "name": "バセットクラリネット",
+    "category": "管楽器-単簧管楽器",
+    "origin": "オーストリア",
+    "family": "クラリネット族",
+    "description": "低音域拡張クラリネット。モーツァルト協奏曲用"
+  },
+  {
+    "id": 278,
+    "name": "タロガトー",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ハンガリー",
+    "family": "タロガトー族",
+    "description": "木製円錐管のシングルリード楽器"
+  },
+  {
+    "id": 279,
+    "name": "ヘッケルフォーン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ドイツ",
+    "family": "オーボエ族",
+    "description": "バリトンオーボエ。R.シュトラウス作品で使用"
+  },
+  {
+    "id": 280,
+    "name": "オーボエダモーレ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ドイツ",
+    "family": "オーボエ族",
+    "description": "メゾソプラノオーボエ。バロック音楽で使用"
+  },
+  {
+    "id": 281,
+    "name": "オーボエダカッチャ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "イタリア",
+    "family": "オーボエ族",
+    "description": "テナーオーボエ。狩猟音楽由来"
+  },
+  {
+    "id": 282,
+    "name": "サリュソフォーン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "フランス",
+    "family": "サリュソフォーン族",
+    "description": "金属製ダブルリード楽器。軍楽隊で使用"
+  },
+  {
+    "id": 283,
+    "name": "バリトンオーボエ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "イギリス",
+    "family": "オーボエ族",
+    "description": "低音オーボエ。現代音楽で稀に使用"
+  },
+  {
+    "id": 284,
+    "name": "ラケット",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ドイツ",
+    "family": "ラケット族",
+    "description": "ルネサンス期の円筒形ダブルリード楽器"
+  },
+  {
+    "id": 285,
+    "name": "クルムホルン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ドイツ",
+    "family": "クルムホルン族",
+    "description": "J字型の中世・ルネサンス楽器。キャップ付きリード"
+  },
+  {
+    "id": 286,
+    "name": "ショーム",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ヨーロッパ",
+    "family": "ショーム族",
+    "description": "中世・ルネサンスのダブルリード楽器。オーボエの祖先"
+  },
+  {
+    "id": 287,
+    "name": "ボンバルド",
+    "category": "管楽器-複簧管楽器",
+    "origin": "フランス",
+    "family": "ボンバルド族",
+    "description": "ブルターニュの伝統的ダブルリード楽器"
+  },
+  {
+    "id": 288,
+    "name": "ドゥドゥク",
+    "category": "管楽器-複簧管楽器",
+    "origin": "アルメニア",
+    "family": "ドゥドゥク族",
+    "description": "アプリコット材のダブルリード楽器。哀愁の音色"
+  },
+  {
+    "id": 289,
+    "name": "バラバン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "アゼルバイジャン",
+    "family": "バラバン族",
+    "description": "円筒形ダブルリード楽器。民族音楽で使用"
+  },
+  {
+    "id": 290,
+    "name": "管子",
+    "category": "管楽器-複簧管楽器",
+    "origin": "中国",
+    "family": "管子族",
+    "description": "中国北部のダブルリード楽器。明るい音色"
+  },
+  {
+    "id": 291,
+    "name": "ピリ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "韓国",
+    "family": "ピリ族",
+    "description": "韓国の竹製ダブルリード楽器。宮廷音楽で使用"
+  },
+  {
+    "id": 292,
+    "name": "シェナイ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "インド",
+    "family": "シェナイ族",
+    "description": "北インドのダブルリード楽器。吉祥の音"
+  },
+  {
+    "id": 293,
+    "name": "ナーダスワラム",
+    "category": "管楽器-複簧管楽器",
+    "origin": "インド",
+    "family": "ナーダスワラム族",
+    "description": "南インドの大型ダブルリード楽器。寺院音楽"
+  },
+  {
+    "id": 294,
+    "name": "ソルナ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "イラン",
+    "family": "ソルナ族",
+    "description": "ペルシャの円錐形ダブルリード楽器"
+  },
+  {
+    "id": 295,
+    "name": "ミジュマル",
+    "category": "管楽器-複簧管楽器",
+    "origin": "北アフリカ",
+    "family": "ミジュマル族",
+    "description": "リビア・チュニジアのダブルリード楽器"
+  },
+  {
+    "id": 296,
+    "name": "竜笛",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中国",
+    "family": "笛族",
+    "description": "中国の横笛。装飾的で華やか"
+  },
+  {
+    "id": 297,
+    "name": "簫",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中国",
+    "family": "簫族",
+    "description": "中国の縦笛。文人の楽器として愛好"
+  },
+  {
+    "id": 298,
+    "name": "洞簫",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中国",
+    "family": "簫族",
+    "description": "太い竹の縦笛。深く瞑想的な音色"
+  },
+  {
+    "id": 299,
+    "name": "排簫",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中国",
+    "family": "パンフルート族",
+    "description": "中国のパンフルート。古代からの楽器"
+  },
+  {
+    "id": 300,
+    "name": "巴烏",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中国",
+    "family": "巴烏族",
+    "description": "雲南省の横笛。少数民族の楽器"
+  },
+  {
+    "id": 301,
+    "name": "口笛",
+    "category": "管楽器-無簧管楽器",
+    "origin": "中国",
+    "family": "口笛族",
+    "description": "小さな竹笛。高音で鋭い音色"
+  },
+  {
+    "id": 302,
+    "name": "ダンソ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "韓国",
+    "family": "ダンソ族",
+    "description": "韓国の短い竹笛。教育楽器として普及"
+  },
+  {
+    "id": 303,
+    "name": "テグム",
+    "category": "管楽器-無簧管楽器",
+    "origin": "韓国",
+    "family": "テグム族",
+    "description": "韓国の大型横笛。宮廷音楽で使用"
+  },
+  {
+    "id": 304,
+    "name": "ソグム",
+    "category": "管楽器-無簧管楽器",
+    "origin": "韓国",
+    "family": "ソグム族",
+    "description": "韓国の小型横笛。高音域担当"
+  },
+  {
+    "id": 305,
+    "name": "ヴェーヌ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インド",
+    "family": "フルート族",
+    "description": "南インドの竹製横笛。カルナータカ音楽"
+  },
+  {
+    "id": 306,
+    "name": "プルラーングヴィーナ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インド",
+    "family": "フルート族",
+    "description": "南インドの長い横笛。低音域"
+  },
+  {
+    "id": 307,
+    "name": "スリング",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インドネシア",
+    "family": "スリング族",
+    "description": "バリ島の竹笛。ガムラン合奏で使用"
+  },
+  {
+    "id": 308,
+    "name": "サンプローニョ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "フィリピン",
+    "family": "フルート族",
+    "description": "フィリピンの竹笛。3つの指穴"
+  },
+  {
+    "id": 309,
+    "name": "カヴァル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ブルガリア",
+    "family": "カヴァル族",
+    "description": "バルカン地方の木製縦笛。羊飼いの楽器"
+  },
+  {
+    "id": 310,
+    "name": "フヤラ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "スロバキア",
+    "family": "フヤラ族",
+    "description": "倍音笛。長さ1.5m以上の羊飼い笛"
+  },
+  {
+    "id": 311,
+    "name": "ティンホイッスル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "アイルランド",
+    "family": "笛族",
+    "description": "金属製の縦笛。ケルト音楽で使用"
+  },
+  {
+    "id": 312,
+    "name": "ローホイッスル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "アイルランド",
+    "family": "笛族",
+    "description": "低音ティンホイッスル。深みのある音色"
+  },
+  {
+    "id": 313,
+    "name": "タブラナーニ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "イラン",
+    "family": "笛族",
+    "description": "ペルシャの6穴縦笛。古典音楽で使用"
+  },
+  {
+    "id": 314,
+    "name": "ガスバ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "北アフリカ",
+    "family": "笛族",
+    "description": "葦製の縦笛。ベルベル音楽で使用"
+  },
+  {
+    "id": 315,
+    "name": "アルグール",
+    "category": "管楽器-無簧管楽器",
+    "origin": "エジプト",
+    "family": "笛族",
+    "description": "2本組の縦笛。1本がドローン音"
+  },
+  {
+    "id": 316,
+    "name": "シャバーバ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "エチオピア",
+    "family": "笛族",
+    "description": "竹製の横笛。伝統音楽で使用"
+  },
+  {
+    "id": 317,
+    "name": "ピッコロトランペット",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "トランペット族",
+    "description": "高音域用小型トランペット。バロック音楽"
+  },
+  {
+    "id": 318,
+    "name": "バストランペット",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "トランペット族",
+    "description": "低音トランペット。ワーグナー作品で使用"
+  },
+  {
+    "id": 319,
+    "name": "ナチュラルトランペット",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ヨーロッパ",
+    "family": "トランペット族",
+    "description": "バルブなしトランペット。バロック音楽の真正演奏"
+  },
+  {
+    "id": 320,
+    "name": "ロータリートランペット",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "トランペット族",
+    "description": "ロータリーバルブ式。ドイツ・オーストリアで使用"
+  },
+  {
+    "id": 321,
+    "name": "スライドトランペット",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "イギリス",
+    "family": "トランペット族",
+    "description": "スライド式トランペット。ルネサンス期"
+  },
+  {
+    "id": 322,
+    "name": "ポストホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ヨーロッパ",
+    "family": "ホルン族",
+    "description": "郵便馬車の信号ラッパ。マーラー作品で使用"
+  },
+  {
+    "id": 323,
+    "name": "ナチュラルホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ヨーロッパ",
+    "family": "ホルン族",
+    "description": "バルブなしホルン。手で音程調整"
+  },
+  {
+    "id": 324,
+    "name": "ウィーンホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "オーストリア",
+    "family": "ホルン族",
+    "description": "ウィーン式バルブのホルン。独特の音色"
+  },
+  {
+    "id": 325,
+    "name": "ワーグナーチューバ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "チューバ族",
+    "description": "ワーグナー考案の特殊金管楽器。楽劇で使用"
+  },
+  {
+    "id": 326,
+    "name": "オフィクレイド",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "フランス",
+    "family": "オフィクレイド族",
+    "description": "鍵付き金管楽器。チューバの前身"
+  },
+  {
+    "id": 327,
+    "name": "セルパン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "フランス",
+    "family": "セルパン族",
+    "description": "蛇型の木製金管楽器。教会音楽で使用"
+  },
+  {
+    "id": 328,
+    "name": "バリトン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "サクソルン族",
+    "description": "小型ユーフォニアム。吹奏楽で使用"
+  },
+  {
+    "id": 329,
+    "name": "アルトホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "サクソルン族",
+    "description": "E♭管の中音金管楽器。吹奏楽で使用"
+  },
+  {
+    "id": 330,
+    "name": "テナーホルン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ドイツ",
+    "family": "サクソルン族",
+    "description": "B♭管の中音金管楽器。ブラスバンド"
+  },
+  {
+    "id": 331,
+    "name": "コルノ・ダ・カッチャ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "イタリア",
+    "family": "ホルン族",
+    "description": "狩猟ホルン。バロック音楽で使用"
+  },
+  {
+    "id": 332,
+    "name": "ビューシーヌ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "古代ローマ",
+    "family": "トランペット族",
+    "description": "古代ローマの直管トランペット。軍事用"
+  },
+  {
+    "id": 333,
+    "name": "リトゥス",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "古代ローマ",
+    "family": "トランペット族",
+    "description": "J字型の古代金管楽器。宗教儀式用"
+  },
+  {
+    "id": 334,
+    "name": "カルニュクス",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ケルト",
+    "family": "トランペット族",
+    "description": "ケルトの戦争ラッパ。動物頭部装飾"
+  },
+  {
+    "id": 335,
+    "name": "ルール",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "スカンジナビア",
+    "family": "ホルン族",
+    "description": "北欧の木製ホルン。青銅器時代から"
+  },
+  {
+    "id": 336,
+    "name": "ヴヴゼラ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "南アフリカ",
+    "family": "ホルン族",
+    "description": "プラスチック製ホーン。サッカー応援で有名"
+  },
+  {
+    "id": 337,
+    "name": "プー",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "タイ",
+    "family": "法螺族",
+    "description": "タイの巻貝楽器。仏教儀式で使用"
+  },
+  {
+    "id": 338,
+    "name": "アンクルン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "竹楽器族",
+    "description": "竹筒を振って鳴らす楽器。複数で和音演奏"
+  },
+  {
+    "id": 339,
+    "name": "ガンバン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "木琴族",
+    "description": "インドネシアの木琴。ガムラン合奏の主要楽器"
+  },
+  {
+    "id": 340,
+    "name": "ボナン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "小型ゴングのセット。ガムラン合奏で使用"
+  },
+  {
+    "id": 341,
+    "name": "ケノン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "大型ゴング。ガムラン合奏の時間的指標"
+  },
+  {
+    "id": 342,
+    "name": "サロン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "鉄琴族",
+    "description": "青銅製音板楽器。ガムラン合奏の旋律楽器"
+  },
+  {
+    "id": 343,
+    "name": "グンデル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "鉄琴族",
+    "description": "竹筒共鳴器付き鉄琴。バリガムランで重要"
+  },
+  {
+    "id": 344,
+    "name": "ルジェン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "シンバル族",
+    "description": "小型シンバルセット。リズムを刻む"
+  },
+  {
+    "id": 345,
+    "name": "チェンチェン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "シンバル族",
+    "description": "小型シンバル。バリガムランで使用"
+  },
+  {
+    "id": 346,
+    "name": "クンダン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "両面太鼓。ガムラン合奏のリーダー"
+  },
+  {
+    "id": 347,
+    "name": "ベドゥグ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "大型太鼓。モスクの時報にも使用"
+  },
+  {
+    "id": 348,
+    "name": "レバーナ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "枠太鼓族",
+    "description": "枠太鼓。イスラム音楽で使用"
+  },
+  {
+    "id": 349,
+    "name": "コンパン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "マレーシア",
+    "family": "枠太鼓族",
+    "description": "マレーの枠太鼓。舞踊伴奏"
+  },
+  {
+    "id": 350,
+    "name": "グンダン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "マレーシア",
+    "family": "太鼓族",
+    "description": "両面太鼓。ワヤンクリット伴奏"
+  },
+  {
+    "id": 351,
+    "name": "タブー",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中東",
+    "family": "太鼓族",
+    "description": "杯型太鼓。ダラブッカの別名"
+  },
+  {
+    "id": 352,
+    "name": "ダラブッカ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中東",
+    "family": "ダラブッカ族",
+    "description": "陶器または金属の杯型太鼓。ベリーダンス伴奏"
+  },
+  {
+    "id": 353,
+    "name": "トンバク",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "イラン",
+    "family": "トンバク族",
+    "description": "ペルシャのゴブレット型太鼓。複雑な手技"
+  },
+  {
+    "id": 354,
+    "name": "ザルブ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "イラン",
+    "family": "ザルブ族",
+    "description": "トンバクの別名。古典音楽で使用"
+  },
+  {
+    "id": 355,
+    "name": "リク",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "エジプト",
+    "family": "枠太鼓族",
+    "description": "アラブの枠太鼓。金属ジングル付き"
+  },
+  {
+    "id": 356,
+    "name": "マズハル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "エジプト",
+    "family": "タンバリン族",
+    "description": "大型タンバリン。宗教音楽で使用"
+  },
+  {
+    "id": 357,
+    "name": "ベンディール",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "モロッコ",
+    "family": "枠太鼓族",
+    "description": "北アフリカの枠太鼓。スネア付き"
+  },
+  {
+    "id": 358,
+    "name": "タール",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "北アフリカ",
+    "family": "枠太鼓族",
+    "description": "マグレブの枠太鼓。結婚式で使用"
+  },
+  {
+    "id": 359,
+    "name": "ドゥンドゥン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "西アフリカ",
+    "family": "太鼓族",
+    "description": "砂時計型太鼓セット。3つのサイズ"
+  },
+  {
+    "id": 360,
+    "name": "サバール",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "セネガル",
+    "family": "太鼓族",
+    "description": "セネガルの太鼓セット。サバールダンス伴奏"
+  },
+  {
+    "id": 361,
+    "name": "アシコ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "西アフリカ",
+    "family": "太鼓族",
+    "description": "円錐形太鼓。ヨルバ族の楽器"
+  },
+  {
+    "id": 362,
+    "name": "ブガラブー",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ギニア",
+    "family": "太鼓族",
+    "description": "4つセットの太鼓。マンディンカ族"
+  },
+  {
+    "id": 363,
+    "name": "クパニーニョ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "プエルトリコ",
+    "family": "太鼓族",
+    "description": "小型太鼓。プレーナ音楽で使用"
+  },
+  {
+    "id": 364,
+    "name": "パンデイロ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ブラジル",
+    "family": "タンバリン族",
+    "description": "ブラジル式タンバリン。サンバやボサノヴァ"
+  },
+  {
+    "id": 365,
+    "name": "アタバケ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ブラジル",
+    "family": "太鼓族",
+    "description": "円錐形太鼓。カポエイラやカンドンブレ"
+  },
+  {
+    "id": 366,
+    "name": "スルド",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ブラジル",
+    "family": "太鼓族",
+    "description": "大型太鼓。サンバの低音リズム"
+  },
+  {
+    "id": 367,
+    "name": "タンボリン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ブラジル",
+    "family": "太鼓族",
+    "description": "小型枠太鼓。サンバで使用"
+  },
+  {
+    "id": 368,
+    "name": "レピニケ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ブラジル",
+    "family": "太鼓族",
+    "description": "高音太鼓。サンバのアクセント"
+  },
+  {
+    "id": 369,
+    "name": "カイシャ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ブラジル",
+    "family": "スネア族",
+    "description": "ブラジルのスネアドラム。響き線付き"
+  },
+  {
+    "id": 370,
+    "name": "タンボーラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アルゼンチン",
+    "family": "太鼓族",
+    "description": "両面太鼓。フォルクローレで使用"
+  },
+  {
+    "id": 371,
+    "name": "ボンボ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アルゼンチン",
+    "family": "太鼓族",
+    "description": "大太鼓。フォルクローレやタンゴ"
+  },
+  {
+    "id": 372,
+    "name": "カハ・チャイナ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ペルー",
+    "family": "太鼓族",
+    "description": "中国由来の太鼓。ペルー音楽で使用"
+  },
+  {
+    "id": 373,
+    "name": "ティンバル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "キューバ",
+    "family": "ティンバル族",
+    "description": "2つセットの太鼓。ラテンジャズで重要"
+  },
+  {
+    "id": 374,
+    "name": "バタ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "キューバ",
+    "family": "バタ族",
+    "description": "3つセットの両面太鼓。サンテリア宗教音楽"
+  },
+  {
+    "id": 375,
+    "name": "ロートタム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アメリカ",
+    "family": "タム族",
+    "description": "音程可変タム。現代ドラムセット"
+  },
+  {
+    "id": 376,
+    "name": "オクトバン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "イギリス",
+    "family": "タム族",
+    "description": "8個セットの音階タム。プログレで使用"
+  },
+  {
+    "id": 377,
+    "name": "ティンパニロール",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ヨーロッパ",
+    "family": "ティンパニ族",
+    "description": "小型ティンパニ。バロック音楽で使用"
+  },
+  {
+    "id": 378,
+    "name": "ナッカーラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "ナッカーラ族",
+    "description": "対の釜型太鼓。ムガル宮廷音楽"
+  },
+  {
+    "id": 379,
+    "name": "ナガラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "ナガラ族",
+    "description": "大型釜型太鼓。寺院や祭礼で使用"
+  },
+  {
+    "id": 380,
+    "name": "ダマル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "ダマル族",
+    "description": "砂時計型小太鼓。シヴァ神の楽器"
+  },
+  {
+    "id": 381,
+    "name": "ダマルー",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "チベット",
+    "family": "ダマル族",
+    "description": "チベット仏教の砂時計型太鼓。儀式用"
+  },
+  {
+    "id": 382,
+    "name": "ロルモ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "チベット",
+    "family": "シンバル族",
+    "description": "チベットのシンバル。仏教儀式で使用"
+  },
+  {
+    "id": 383,
+    "name": "ガドゥ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "チベット",
+    "family": "太鼓族",
+    "description": "チベットの大太鼓。僧院で使用"
+  },
+  {
+    "id": 384,
+    "name": "チャンゴ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "韓国",
+    "family": "チャンゴ族",
+    "description": "砂時計型両面太鼓。韓国伝統音楽の中心"
+  },
+  {
+    "id": 385,
+    "name": "プク",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "韓国",
+    "family": "プク族",
+    "description": "樽型太鼓。パンソリや農楽で使用"
+  },
+  {
+    "id": 386,
+    "name": "チン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "韓国",
+    "family": "太鼓族",
+    "description": "大太鼓。宮廷音楽や仏教音楽"
+  },
+  {
+    "id": 387,
+    "name": "ソリプク",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "韓国",
+    "family": "プク族",
+    "description": "パンソリ専用太鼓。歌い手の伴奏"
+  },
+  {
+    "id": 388,
+    "name": "堂鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中国",
+    "family": "堂鼓族",
+    "description": "中国の中型太鼓。京劇や民族音楽"
+  },
+  {
+    "id": 389,
+    "name": "花盆鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中国",
+    "family": "花盆鼓族",
+    "description": "花瓶型太鼓。広東音楽で使用"
+  },
+  {
+    "id": 390,
+    "name": "板鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中国",
+    "family": "板鼓族",
+    "description": "単面太鼓。京劇の指揮者楽器"
+  },
+  {
+    "id": 391,
+    "name": "缸鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中国",
+    "family": "缸鼓族",
+    "description": "甕型太鼓。民間音楽で使用"
+  },
+  {
+    "id": 392,
+    "name": "羯鼓",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "中国",
+    "family": "羯鼓族",
+    "description": "両面太鼓。唐代の宮廷音楽"
+  },
+  {
+    "id": 393,
+    "name": "拍板",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "拍板族",
+    "description": "木製拍子木。戯曲音楽で使用"
+  },
+  {
+    "id": 394,
+    "name": "梆子",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "梆子族",
+    "description": "木製打楽器。梆子戯の名称由来"
+  },
+  {
+    "id": 395,
+    "name": "木鐸",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "鐸族",
+    "description": "木舌の鐘。古代の布告用"
+  },
+  {
+    "id": 396,
+    "name": "雲鑼",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "鑼族",
+    "description": "10個の小ゴングセット。音階を持つ"
+  },
+  {
+    "id": 397,
+    "name": "十面鑼",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "鑼族",
+    "description": "10個のゴング。広東音楽で使用"
+  },
+  {
+    "id": 398,
+    "name": "鐃鈸",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "シンバル族",
+    "description": "中国のシンバル。獅子舞で使用"
+  },
+  {
+    "id": 399,
+    "name": "碰鈴",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "鈴族",
+    "description": "小型シンバル。仏教音楽で使用"
+  },
+  {
+    "id": 400,
+    "name": "串鈴",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "鈴族",
+    "description": "複数の鈴を串刺し。舞踊で使用"
+  },
+  {
+    "id": 401,
+    "name": "ガタム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "壺太鼓族",
+    "description": "粘土製の壺太鼓。手で叩く南インド楽器"
+  },
+  {
+    "id": 402,
+    "name": "ウドゥ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ナイジェリア",
+    "family": "壺太鼓族",
+    "description": "粘土製の壺太鼓。水瓶から発展"
+  },
+  {
+    "id": 403,
+    "name": "ハンドパン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "スイス",
+    "family": "ハンドパン族",
+    "description": "2000年発明の鋼鉄製楽器。瞑想的音色"
+  },
+  {
+    "id": 404,
+    "name": "ハングドラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "スイス",
+    "family": "ハンドパン族",
+    "description": "ハンドパンの元祖。UFO型の形状"
+  },
+  {
+    "id": 405,
+    "name": "カシシ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "シェイカー族",
+    "description": "籠編みのシェイカー。カポエイラで使用"
+  },
+  {
+    "id": 406,
+    "name": "アフチェ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "シェイカー族",
+    "description": "ひょうたんに網を張った楽器。アフロブラジル音楽"
+  },
+  {
+    "id": 407,
+    "name": "ギロ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ラテンアメリカ",
+    "family": "ギロ族",
+    "description": "刻み目を擦る楽器。サルサやメレンゲ"
+  },
+  {
+    "id": 408,
+    "name": "グアチャララ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "コロンビア",
+    "family": "ギロ族",
+    "description": "竹製の擦り楽器。バジェナート音楽"
+  },
+  {
+    "id": 409,
+    "name": "レコレコ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "ギロ族",
+    "description": "ブラジルの擦り楽器。サンバで使用"
+  },
+  {
+    "id": 410,
+    "name": "ガンザ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "シェイカー族",
+    "description": "円筒形シェイカー。サンバの基本リズム"
+  },
+  {
+    "id": 411,
+    "name": "チョカーリョ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "シェイカー族",
+    "description": "複数の小型シンバル付きシェイカー"
+  },
+  {
+    "id": 412,
+    "name": "ロンココ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "シェイカー族",
+    "description": "春の音を模倣する楽器"
+  },
+  {
+    "id": 413,
+    "name": "アゴゴー",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "ベル族",
+    "description": "2音の金属ベル。サンバの高音リズム"
+  },
+  {
+    "id": 414,
+    "name": "タンタン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "太鼓族",
+    "description": "円筒形太鼓。パゴーヂで使用"
+  },
+  {
+    "id": 415,
+    "name": "ザブンバ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "太鼓族",
+    "description": "大太鼓。フォホー音楽の基礎"
+  },
+  {
+    "id": 416,
+    "name": "トリアングロ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "トライアングル族",
+    "description": "三角鉄。フォホー音楽で重要"
+  },
+  {
+    "id": 417,
+    "name": "プラトス",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "シンバル族",
+    "description": "ブラジルのシンバル。マルシャで使用"
+  },
+  {
+    "id": 418,
+    "name": "フリジデイラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ブラジル",
+    "family": "その他",
+    "description": "フライパンを叩く楽器。即興的に開発"
+  },
+  {
+    "id": 419,
+    "name": "ヴィブラスラップ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "その他",
+    "description": "馬の顎骨を模した楽器。ラテン音楽"
+  },
+  {
+    "id": 420,
+    "name": "フレクサトーン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "イギリス",
+    "family": "その他",
+    "description": "金属板を振動させる楽器。効果音用"
+  },
+  {
+    "id": 421,
+    "name": "ウォーターフォン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "その他",
+    "description": "水を入れた金属楽器。映画音楽で使用"
+  },
+  {
+    "id": 422,
+    "name": "スプリングドラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "その他",
+    "description": "バネを使った効果音楽器。雷の音"
+  },
+  {
+    "id": 423,
+    "name": "サンダーシート",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "その他",
+    "description": "金属板を振る楽器。雷の効果音"
+  },
+  {
+    "id": 424,
+    "name": "オーシャンドラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "世界各地",
+    "family": "その他",
+    "description": "波の音を模倣する楽器。癒し系音楽"
+  },
+  {
+    "id": 425,
+    "name": "スラップスティック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "その他",
+    "description": "拍子木型の効果音楽器。鞭の音"
+  },
+  {
+    "id": 426,
+    "name": "ラチェット",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ヨーロッパ",
+    "family": "その他",
+    "description": "歯車を回す楽器。ガラガラ音"
+  },
+  {
+    "id": 427,
+    "name": "ウッドブロック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "木魚族",
+    "description": "中空の木製打楽器。ジャズドラムで使用"
+  },
+  {
+    "id": 428,
+    "name": "テンプルブロック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "中国",
+    "family": "木魚族",
+    "description": "5音セットの木魚。現代音楽で使用"
+  },
+  {
+    "id": 429,
+    "name": "ジャムブロック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "ブロック族",
+    "description": "プラスチック製ブロック。ラテン音楽"
+  },
+  {
+    "id": 430,
+    "name": "スリットドラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アフリカ",
+    "family": "太鼓族",
+    "description": "切れ込み入り木製太鼓。通信用"
+  },
+  {
+    "id": 431,
+    "name": "ログドラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アフリカ",
+    "family": "太鼓族",
+    "description": "丸太をくり抜いた太鼓。儀式用"
+  },
+  {
+    "id": 432,
+    "name": "トーンドラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "アメリカ",
+    "family": "太鼓族",
+    "description": "金属製音階太鼓。現代打楽器"
+  },
+  {
+    "id": 433,
+    "name": "ティンパノーギ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "古代ギリシャ",
+    "family": "ティンパニ族",
+    "description": "古代のティンパニ。ディオニソス祭"
+  },
+  {
+    "id": 434,
+    "name": "アデューフェ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ポルトガル",
+    "family": "枠太鼓族",
+    "description": "正方形の枠太鼓。民族舞踊で使用"
+  },
+  {
+    "id": 435,
+    "name": "パンデレタ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "スペイン",
+    "family": "タンバリン族",
+    "description": "スペインのタンバリン。フラメンコで使用"
+  },
+  {
+    "id": 436,
+    "name": "タンボリル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "スペイン",
+    "family": "太鼓族",
+    "description": "小型太鼓と笛の組み合わせ。一人で演奏"
+  },
+  {
+    "id": 437,
+    "name": "ボンバルド",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "フランス",
+    "family": "太鼓族",
+    "description": "ブルターニュの太鼓。バグパイプと共演"
+  },
+  {
+    "id": 438,
+    "name": "タバレット",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "フランス",
+    "family": "太鼓族",
+    "description": "プロヴァンス地方の細長い太鼓"
+  },
+  {
+    "id": 439,
+    "name": "ダーヴル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "トルコ",
+    "family": "太鼓族",
+    "description": "大型両面太鼓。メフテル軍楽で使用"
+  },
+  {
+    "id": 440,
+    "name": "ナッカーレ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "トルコ",
+    "family": "ティンパニ族",
+    "description": "対の釜型太鼓。オスマン軍楽"
+  },
+  {
+    "id": 441,
+    "name": "クドゥム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "トルコ",
+    "family": "太鼓族",
+    "description": "対の小型太鼓。メヴレヴィー教団で使用"
+  },
+  {
+    "id": 442,
+    "name": "バラバン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "トルコ",
+    "family": "太鼓族",
+    "description": "円筒形太鼓。民俗音楽で使用"
+  },
+  {
+    "id": 443,
+    "name": "ゴシャナガラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アゼルバイジャン",
+    "family": "ナガラ族",
+    "description": "対の釜型太鼓。ムガーム音楽"
+  },
+  {
+    "id": 444,
+    "name": "ディアフ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アゼルバイジャン",
+    "family": "枠太鼓族",
+    "description": "アゼルバイジャンの枠太鼓"
+  },
+  {
+    "id": 445,
+    "name": "ガヴァル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アゼルバイジャン",
+    "family": "枠太鼓族",
+    "description": "大型枠太鼓。アシュグ音楽で使用"
+  },
+  {
+    "id": 446,
+    "name": "ドイラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ウズベキスタン",
+    "family": "枠太鼓族",
+    "description": "中央アジアの枠太鼓。金属リング付き"
+  },
+  {
+    "id": 447,
+    "name": "ナゴラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ウズベキスタン",
+    "family": "ナゴラ族",
+    "description": "対の陶器太鼓。ブハラ音楽で使用"
+  },
+  {
+    "id": 448,
+    "name": "タビルバズ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ウズベキスタン",
+    "family": "太鼓族",
+    "description": "大太鼓。野外演奏で使用"
+  },
+  {
+    "id": 449,
+    "name": "チルダウト",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ウズベキスタン",
+    "family": "太鼓族",
+    "description": "円筒形太鼓。舞踊伴奏"
+  },
+  {
+    "id": 450,
+    "name": "サッパ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "カザフスタン",
+    "family": "太鼓族",
+    "description": "シャーマンの太鼓。儀式で使用"
+  },
+  {
+    "id": 451,
+    "name": "アスタヤック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カザフスタン",
+    "family": "その他",
+    "description": "杖型打楽器。リズムを刻む"
+  },
+  {
+    "id": 452,
+    "name": "ジェティゲン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "カザフスタン",
+    "family": "チター族",
+    "description": "7弦の平置き楽器。叙事詩伴奏"
+  },
+  {
+    "id": 453,
+    "name": "アダルナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "カザフスタン",
+    "family": "リュート族",
+    "description": "2弦撥弦楽器。デュタールの変種"
+  },
+  {
+    "id": 454,
+    "name": "ショルピ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "カザフスタン",
+    "family": "笛族",
+    "description": "葦製縦笛。羊飼いの楽器"
+  },
+  {
+    "id": 455,
+    "name": "TB-303",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "ベースシンセサイザー。アシッドハウスの象徴"
+  },
+  {
+    "id": 456,
+    "name": "Jupiter-8",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "ローランドのポリシンセ。80年代の名機"
+  },
+  {
+    "id": 457,
+    "name": "Prophet-5",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "初期のプログラマブルポリシンセ"
+  },
+  {
+    "id": 458,
+    "name": "Oberheim OB-X",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "ファットなアナログポリシンセ"
+  },
+  {
+    "id": 459,
+    "name": "ARP Odyssey",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "デュオフォニックシンセ。ファンク・ロックで使用"
+  },
+  {
+    "id": 460,
+    "name": "EMS VCS3",
+    "category": "電子楽器",
+    "origin": "イギリス",
+    "family": "シンセサイザー族",
+    "description": "マトリックスパッチングシンセ。実験音楽"
+  },
+  {
+    "id": 461,
+    "name": "Buchla",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "西海岸シンセシス。実験的電子音楽"
+  },
+  {
+    "id": 462,
+    "name": "Fairlight CMI",
+    "category": "電子楽器",
+    "origin": "オーストラリア",
+    "family": "サンプラー族",
+    "description": "初期のデジタルサンプラー。80年代ポップ"
+  },
+  {
+    "id": 463,
+    "name": "E-mu Emulator",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "サンプラー族",
+    "description": "手頃な価格のサンプラー。ヒップホップで重要"
+  },
+  {
+    "id": 464,
+    "name": "Akai MPC",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "サンプラー族",
+    "description": "パッド付きサンプラー。ヒップホップ制作の定番"
+  },
+  {
+    "id": 465,
+    "name": "Linn LM-1",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "ドラムマシン族",
+    "description": "初のデジタルドラムマシン。80年代ポップ"
+  },
+  {
+    "id": 466,
+    "name": "Roland TR-909",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "ドラムマシン族",
+    "description": "ハウス・テクノの基礎。アナログ+デジタル"
+  },
+  {
+    "id": 467,
+    "name": "Roland CR-78",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "ドラムマシン族",
+    "description": "初期のプログラマブルドラムマシン"
+  },
+  {
+    "id": 468,
+    "name": "Korg MS-20",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "セミモジュラーシンセ。教育用にも使用"
+  },
+  {
+    "id": 469,
+    "name": "Yamaha CS-80",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "ポリフォニックアナログシンセ。ヴァンゲリス使用"
+  },
+  {
+    "id": 470,
+    "name": "Sequential Circuits Pro-One",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "モノフォニックアナログシンセ"
+  },
+  {
+    "id": 471,
+    "name": "Roland Juno-106",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "手頃なポリシンセ。80年代の定番"
+  },
+  {
+    "id": 472,
+    "name": "Korg M1",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "ワークステーションシンセ。90年代の標準"
+  },
+  {
+    "id": 473,
+    "name": "Yamaha DX7",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "FM音源シンセ。80年代を定義した音"
+  },
+  {
+    "id": 474,
+    "name": "Roland D-50",
+    "category": "電子楽器",
+    "origin": "日本",
+    "family": "シンセサイザー族",
+    "description": "LAシンセシス。ニューエイジ音楽で人気"
+  },
+  {
+    "id": 475,
+    "name": "Ensoniq VFX",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "ベクターシンセシス。多彩な音色"
+  },
+  {
+    "id": 476,
+    "name": "PPG Wave",
+    "category": "電子楽器",
+    "origin": "ドイツ",
+    "family": "シンセサイザー族",
+    "description": "ウェーブテーブルシンセ。デジタル音源の先駆"
+  },
+  {
+    "id": 477,
+    "name": "Waldorf Microwave",
+    "category": "電子楽器",
+    "origin": "ドイツ",
+    "family": "シンセサイザー族",
+    "description": "現代版ウェーブテーブルシンセ"
+  },
+  {
+    "id": 478,
+    "name": "Access Virus",
+    "category": "電子楽器",
+    "origin": "ドイツ",
+    "family": "シンセサイザー族",
+    "description": "バーチャルアナログシンセ。トランスで人気"
+  },
+  {
+    "id": 479,
+    "name": "Clavia Nord Lead",
+    "category": "電子楽器",
+    "origin": "スウェーデン",
+    "family": "シンセサイザー族",
+    "description": "バーチャルアナログの先駆け"
+  },
+  {
+    "id": 480,
+    "name": "Elektron Digitakt",
+    "category": "電子楽器",
+    "origin": "スウェーデン",
+    "family": "サンプラー族",
+    "description": "現代のデジタルドラムマシン/サンプラー"
+  },
+  {
+    "id": 481,
+    "name": "Teenage Engineering OP-1",
+    "category": "電子楽器",
+    "origin": "スウェーデン",
+    "family": "シンセサイザー族",
+    "description": "オールインワンポータブルシンセ"
+  },
+  {
+    "id": 482,
+    "name": "Arturia MiniBrute",
+    "category": "電子楽器",
+    "origin": "フランス",
+    "family": "シンセサイザー族",
+    "description": "現代のアナログモノシンセ"
+  },
+  {
+    "id": 483,
+    "name": "Dave Smith Instruments Prophet-6",
+    "category": "電子楽器",
+    "origin": "アメリカ",
+    "family": "シンセサイザー族",
+    "description": "Prophet-5の現代版"
+  },
+  {
+    "id": 484,
+    "name": "Behringer Model D",
+    "category": "電子楽器",
+    "origin": "ドイツ",
+    "family": "シンセサイザー族",
+    "description": "Minimoogのクローン。手頃な価格"
+  },
+  {
+    "id": 485,
+    "name": "フスエ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "スペイン",
+    "family": "笛族",
+    "description": "3穴の縦笛。片手で演奏、もう片方で太鼓"
+  },
+  {
+    "id": 486,
+    "name": "チスト",
+    "category": "管楽器-無簧管楽器",
+    "origin": "スペイン",
+    "family": "笛族",
+    "description": "バスク地方の3穴笛。民族舞踊で使用"
+  },
+  {
+    "id": 487,
+    "name": "ガイタ・デ・フエジェ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "スペイン",
+    "family": "笛族",
+    "description": "袋なしバグパイプ型の笛"
+  },
+  {
+    "id": 488,
+    "name": "アルボカ",
+    "category": "管楽器-単簧管楽器",
+    "origin": "スペイン",
+    "family": "クラリネット族",
+    "description": "バスクの角製ダブルパイプ楽器"
+  },
+  {
+    "id": 489,
+    "name": "ドゥルスリーナ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "スペイン",
+    "family": "オーボエ族",
+    "description": "カタルーニャの伝統的ダブルリード楽器"
+  },
+  {
+    "id": 490,
+    "name": "グライ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "スペイン",
+    "family": "オーボエ族",
+    "description": "バレアレス諸島のダブルリード楽器"
+  },
+  {
+    "id": 491,
+    "name": "テノーラ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "スペイン",
+    "family": "オーボエ族",
+    "description": "カタルーニャのコブラ楽団で使用"
+  },
+  {
+    "id": 492,
+    "name": "ティブレ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "スペイン",
+    "family": "オーボエ族",
+    "description": "高音域のカタルーニャ楽器"
+  },
+  {
+    "id": 493,
+    "name": "ミズマール",
+    "category": "管楽器-複簧管楽器",
+    "origin": "トルコ",
+    "family": "ズルナ族",
+    "description": "トルコの民族的ダブルリード楽器"
+  },
+  {
+    "id": 494,
+    "name": "カバル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "トルコ",
+    "family": "笛族",
+    "description": "トルコ・アゼルバイジャンの斜め吹き笛"
+  },
+  {
+    "id": 495,
+    "name": "メイ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "トルコ",
+    "family": "笛族",
+    "description": "トルコの縦笛。スーフィー音楽で使用"
+  },
+  {
+    "id": 496,
+    "name": "シプシ",
+    "category": "管楽器-単簧管楽器",
+    "origin": "トルコ",
+    "family": "クラリネット族",
+    "description": "小型の民族的リード楽器"
+  },
+  {
+    "id": 497,
+    "name": "トゥルム",
+    "category": "管楽器-多管楽器",
+    "origin": "トルコ",
+    "family": "バグパイプ族",
+    "description": "黒海地方のバグパイプ"
+  },
+  {
+    "id": 498,
+    "name": "チフテ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "アルバニア",
+    "family": "笛族",
+    "description": "2本組の笛。1本がドローン"
+  },
+  {
+    "id": 499,
+    "name": "フルヤ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ルーマニア",
+    "family": "笛族",
+    "description": "羊飼いの縦笛。長さ1m以上"
+  },
+  {
+    "id": 500,
+    "name": "カヴァル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ブルガリア",
+    "family": "笛族",
+    "description": "バルカンの木製縦笛。3つの部分から構成"
+  },
+  {
+    "id": 501,
+    "name": "ガイダ",
+    "category": "管楽器-多管楽器",
+    "origin": "ブルガリア",
+    "family": "バグパイプ族",
+    "description": "ブルガリアのバグパイプ。民族舞踊で使用"
+  },
+  {
+    "id": 502,
+    "name": "ドヴォヤンカ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ブルガリア",
+    "family": "笛族",
+    "description": "二重管の笛。同時に2音演奏"
+  },
+  {
+    "id": 503,
+    "name": "ドゥドゥク",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ブルガリア",
+    "family": "笛族",
+    "description": "ブルガリアの縦笛。アルメニアのドゥドゥクとは別"
+  },
+  {
+    "id": 504,
+    "name": "タンブラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ブルガリア",
+    "family": "タンブラ族",
+    "description": "長ネックの撥弦楽器。民族音楽で使用"
+  },
+  {
+    "id": 505,
+    "name": "ガドゥルカ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ブルガリア",
+    "family": "ガドゥルカ族",
+    "description": "梨型の擦弦楽器。共鳴弦付き"
+  },
+  {
+    "id": 506,
+    "name": "カンブーシュ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "エジプト",
+    "family": "リュート族",
+    "description": "ナイル地方の撥弦楽器"
+  },
+  {
+    "id": 507,
+    "name": "シムシミーヤ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "エジプト",
+    "family": "リラ族",
+    "description": "5弦のリラ型楽器。スエズ運河地域"
+  },
+  {
+    "id": 508,
+    "name": "ラババ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "エジプト",
+    "family": "ラババ族",
+    "description": "1弦の擦弦楽器。ベドウィンの音楽"
+  },
+  {
+    "id": 509,
+    "name": "サガット",
+    "category": "打楽器-体鳴楽器",
+    "origin": "エジプト",
+    "family": "シンバル族",
+    "description": "指シンバル。ベリーダンスで使用"
+  },
+  {
+    "id": 510,
+    "name": "カルカバ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "モロッコ",
+    "family": "カスタネット族",
+    "description": "金属製カスタネット。グナワ音楽"
+  },
+  {
+    "id": 511,
+    "name": "シンティール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "モロッコ",
+    "family": "リュート族",
+    "description": "3弦の撥弦楽器。グナワ音楽の中心"
+  },
+  {
+    "id": 512,
+    "name": "ギンブリ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "モロッコ",
+    "family": "リュート族",
+    "description": "シンティールの別名。トランス音楽"
+  },
+  {
+    "id": 513,
+    "name": "ルバーブ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "モロッコ",
+    "family": "リュート族",
+    "description": "アンダルシア音楽の撥弦楽器"
+  },
+  {
+    "id": 514,
+    "name": "カマンジャ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "モロッコ",
+    "family": "カマンジャ族",
+    "description": "スパイク付き擦弦楽器。アラブアンダルシア音楽"
+  },
+  {
+    "id": 515,
+    "name": "ベンジョ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "モーリタニア",
+    "family": "バンジョー族",
+    "description": "西アフリカ版バンジョー。グリオ音楽"
+  },
+  {
+    "id": 516,
+    "name": "アルディン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "モーリタニア",
+    "family": "ハープ族",
+    "description": "女性用の小型ハープ。10-14弦"
+  },
+  {
+    "id": 517,
+    "name": "ティディニット",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "モーリタニア",
+    "family": "リュート族",
+    "description": "4弦の撥弦楽器。男性グリオ用"
+  },
+  {
+    "id": 518,
+    "name": "イムザド",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "アルジェリア",
+    "family": "擦弦楽器族",
+    "description": "トゥアレグ族の1弦擦弦楽器"
+  },
+  {
+    "id": 519,
+    "name": "ガスバ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "アルジェリア",
+    "family": "笛族",
+    "description": "葦製の縦笛。シャアビ音楽で使用"
+  },
+  {
+    "id": 520,
+    "name": "ズルナ・クビラ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "チュニジア",
+    "family": "ズルナ族",
+    "description": "大型ズルナ。祝祭で使用"
+  },
+  {
+    "id": 521,
+    "name": "メゾード",
+    "category": "管楽器-多管楽器",
+    "origin": "チュニジア",
+    "family": "バグパイプ族",
+    "description": "チュニジアのバグパイプ。スースで有名"
+  },
+  {
+    "id": 522,
+    "name": "ンジュザ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "タンザニア",
+    "family": "チター族",
+    "description": "タンザニアのチター。トラフ型"
+  },
+  {
+    "id": 523,
+    "name": "マリンバ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タンザニア",
+    "family": "木琴族",
+    "description": "アフリカ東部の木琴。儀式で使用"
+  },
+  {
+    "id": 524,
+    "name": "イリンバ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タンザニア",
+    "family": "親指ピアノ族",
+    "description": "大型の親指ピアノ。複数人で演奏"
+  },
+  {
+    "id": 525,
+    "name": "ゼゼ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "タンザニア",
+    "family": "擦弦楽器族",
+    "description": "1-2弦の擦弦楽器。ひょうたん共鳴器"
+  },
+  {
+    "id": 526,
+    "name": "フィランバ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "マダガスカル",
+    "family": "笛族",
+    "description": "竹製の縦笛。伝統音楽で使用"
+  },
+  {
+    "id": 527,
+    "name": "ソディナ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "マダガスカル",
+    "family": "笛族",
+    "description": "竹または葦の縦笛。6穴"
+  },
+  {
+    "id": 528,
+    "name": "ヴァリハ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "マダガスカル",
+    "family": "チター族",
+    "description": "竹筒チター。国民楽器、16-22弦"
+  },
+  {
+    "id": 529,
+    "name": "カボシー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "マダガスカル",
+    "family": "リュート族",
+    "description": "4-6弦の箱型撥弦楽器"
+  },
+  {
+    "id": 530,
+    "name": "ロカンガ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "マダガスカル",
+    "family": "擦弦楽器族",
+    "description": "3弦の擦弦楽器。竹弓で演奏"
+  },
+  {
+    "id": 531,
+    "name": "アンプンガ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "マダガスカル",
+    "family": "太鼓族",
+    "description": "牛皮の太鼓。王室音楽で使用"
+  },
+  {
+    "id": 532,
+    "name": "ランゴリンゴ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "マダガスカル",
+    "family": "太鼓族",
+    "description": "竹筒太鼓。リズムを刻む"
+  },
+  {
+    "id": 533,
+    "name": "キラール",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "エチオピア",
+    "family": "リラ族",
+    "description": "5-6弦の擦弦楽器。宗教音楽で使用"
+  },
+  {
+    "id": 534,
+    "name": "マシンコ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "エチオピア",
+    "family": "擦弦楽器族",
+    "description": "1弦の擦弦楽器。菱形の共鳴箱"
+  },
+  {
+    "id": 535,
+    "name": "ベゲナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "エチオピア",
+    "family": "リラ族",
+    "description": "10弦の大型リラ。ダビデのハープ"
+  },
+  {
+    "id": 536,
+    "name": "ワシント",
+    "category": "管楽器-無簧管楽器",
+    "origin": "エチオピア",
+    "family": "笛族",
+    "description": "竹製の縦笛。4穴"
+  },
+  {
+    "id": 537,
+    "name": "エンビルタ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "エチオピア",
+    "family": "笛族",
+    "description": "木製の横笛。祝祭で使用"
+  },
+  {
+    "id": 538,
+    "name": "ケベロ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "エチオピア",
+    "family": "太鼓族",
+    "description": "両面円錐太鼓。正教会で使用"
+  },
+  {
+    "id": 539,
+    "name": "アトモ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "エチオピア",
+    "family": "太鼓族",
+    "description": "肩掛け太鼓。行進で使用"
+  },
+  {
+    "id": 540,
+    "name": "ネガリート",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "エチオピア",
+    "family": "太鼓族",
+    "description": "ケトルドラム。皇帝の楽隊で使用"
+  },
+  {
+    "id": 541,
+    "name": "ツェナツィル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "エチオピア",
+    "family": "シストラム族",
+    "description": "金属製振り楽器。宗教儀式で使用"
+  },
+  {
+    "id": 542,
+    "name": "デワル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "エチオピア",
+    "family": "鐘族",
+    "description": "石製の鐘。古代の楽器"
+  },
+  {
+    "id": 543,
+    "name": "オルトゥ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ケニア",
+    "family": "笛族",
+    "description": "マサイ族の角笛。儀式で使用"
+  },
+  {
+    "id": 544,
+    "name": "ニャティティ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ケニア",
+    "family": "リラ族",
+    "description": "8弦のリラ。ルオ族の楽器"
+  },
+  {
+    "id": 545,
+    "name": "オボカノ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ケニア",
+    "family": "リラ族",
+    "description": "ルオ族の撥弦楽器。8弦"
+  },
+  {
+    "id": 546,
+    "name": "オルツゥツゥ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ケニア",
+    "family": "笛族",
+    "description": "マサイ族のクーズー角笛"
+  },
+  {
+    "id": 547,
+    "name": "アブ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ウガンダ",
+    "family": "笛族",
+    "description": "角笛。ブガンダ王国で使用"
+  },
+  {
+    "id": 548,
+    "name": "アコゴ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ウガンダ",
+    "family": "親指ピアノ族",
+    "description": "ウガンダの親指ピアノ"
+  },
+  {
+    "id": 549,
+    "name": "エンガロマ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ウガンダ",
+    "family": "太鼓族",
+    "description": "王室の太鼓セット。15個以上"
+  },
+  {
+    "id": 550,
+    "name": "エンテンガ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ウガンダ",
+    "family": "太鼓族",
+    "description": "音階を持つ太鼓セット。12-15個"
+  },
+  {
+    "id": 551,
+    "name": "アダンコ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ウガンダ",
+    "family": "木琴族",
+    "description": "木琴。アチョリ族の楽器"
+  },
+  {
+    "id": 552,
+    "name": "ルクメ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ウガンダ",
+    "family": "弓ハープ族",
+    "description": "弓型ハープ。アチョリ族"
+  },
+  {
+    "id": 553,
+    "name": "アドゥング",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ウガンダ",
+    "family": "ハープ族",
+    "description": "9弦のアーチハープ。テソ族"
+  },
+  {
+    "id": 554,
+    "name": "セセ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ウガンダ",
+    "family": "シェイカー族",
+    "description": "ひょうたんシェイカー。種入り"
+  },
+  {
+    "id": 555,
+    "name": "ナマドゥ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ウガンダ",
+    "family": "鈴族",
+    "description": "足首鈴。舞踊で使用"
+  },
+  {
+    "id": 556,
+    "name": "エキデゲ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ウガンダ",
+    "family": "チター族",
+    "description": "1弦の弓楽器。ブガンダ族"
+  },
+  {
+    "id": 557,
+    "name": "オムクリ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ウガンダ",
+    "family": "笛族",
+    "description": "横笛。ブガンダ族の楽器"
+  },
+  {
+    "id": 558,
+    "name": "アガワル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ウガンダ",
+    "family": "角笛族",
+    "description": "アンテロープの角笛"
+  },
+  {
+    "id": 559,
+    "name": "モロツェ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ボツワナ",
+    "family": "弓楽器族",
+    "description": "1弦の口弓楽器。サン族"
+  },
+  {
+    "id": 560,
+    "name": "セゴロコエ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ボツワナ",
+    "family": "弓楽器族",
+    "description": "ツワナ族の弓楽器"
+  },
+  {
+    "id": 561,
+    "name": "レコロアネ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "レソト",
+    "family": "笛族",
+    "description": "バソト族の縦笛。6穴"
+  },
+  {
+    "id": 562,
+    "name": "セバ・セバ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "レソト",
+    "family": "弓楽器族",
+    "description": "女性用の弓楽器"
+  },
+  {
+    "id": 563,
+    "name": "トゥモ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "レソト",
+    "family": "弓楽器族",
+    "description": "男性用の弓楽器"
+  },
+  {
+    "id": 564,
+    "name": "マコロロ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "レソト",
+    "family": "鈴族",
+    "description": "脚鈴。ダンスで使用"
+  },
+  {
+    "id": 565,
+    "name": "モラバ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "レソト",
+    "family": "太鼓族",
+    "description": "円筒太鼓。伝統音楽で使用"
+  },
+  {
+    "id": 566,
+    "name": "レディッツェ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "レソト",
+    "family": "ラトル族",
+    "description": "籠編みラトル。儀式で使用"
+  },
+  {
+    "id": 567,
+    "name": "ホサ・ボウ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "南アフリカ",
+    "family": "弓楽器族",
+    "description": "コサ族の音楽弓"
+  },
+  {
+    "id": 568,
+    "name": "ウマキーズ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "南アフリカ",
+    "family": "弓楽器族",
+    "description": "ズールー族の音楽弓"
+  },
+  {
+    "id": 569,
+    "name": "イグブ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "南アフリカ",
+    "family": "弓楽器族",
+    "description": "コサ族の口弓楽器"
+  },
+  {
+    "id": 570,
+    "name": "ウムルベ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "南アフリカ",
+    "family": "笛族",
+    "description": "ズールー族の縦笛"
+  },
+  {
+    "id": 571,
+    "name": "ペニーホイッスル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "南アフリカ",
+    "family": "笛族",
+    "description": "クウェラ音楽の笛。6穴金属笛"
+  },
+  {
+    "id": 572,
+    "name": "イスィトロントロ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "南アフリカ",
+    "family": "カズー族",
+    "description": "ブブゼラの原型。葦製"
+  },
+  {
+    "id": 573,
+    "name": "イングング",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "南アフリカ",
+    "family": "太鼓族",
+    "description": "ズールー族の太鼓"
+  },
+  {
+    "id": 574,
+    "name": "ディジェンベ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "南アフリカ",
+    "family": "太鼓族",
+    "description": "マランバ太鼓。手で叩く"
+  },
+  {
+    "id": 575,
+    "name": "マランバ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "南アフリカ",
+    "family": "木琴族",
+    "description": "大型木琴。音階を持つ"
+  },
+  {
+    "id": 576,
+    "name": "フシ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "竹笛の総称。各種の笛を含む"
+  },
+  {
+    "id": 577,
+    "name": "鳳笙",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笙族",
+    "description": "17管の雅楽楽器。宮廷音楽で使用"
+  },
+  {
+    "id": 578,
+    "name": "竽",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "竽族",
+    "description": "大型の笙。36管、雅楽の古楽器"
+  },
+  {
+    "id": 579,
+    "name": "大篳篥",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "篳篥族",
+    "description": "低音篳篥。雅楽で稀に使用"
+  },
+  {
+    "id": 580,
+    "name": "中管",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "能管の別名。能楽で使用"
+  },
+  {
+    "id": 581,
+    "name": "狩笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "狩猟用の笛。信号用"
+  },
+  {
+    "id": 582,
+    "name": "横笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "横笛の総称。各種横笛を含む"
+  },
+  {
+    "id": 583,
+    "name": "清笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "明清楽の横笛。中国由来"
+  },
+  {
+    "id": 584,
+    "name": "明笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "明清楽の横笛。高音域"
+  },
+  {
+    "id": 585,
+    "name": "鼓笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "軍楽隊の横笛。西洋由来"
+  },
+  {
+    "id": 586,
+    "name": "竹笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "竹製笛の総称。各種竹笛"
+  },
+  {
+    "id": 587,
+    "name": "石笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "石製の笛。古代の楽器"
+  },
+  {
+    "id": 588,
+    "name": "土笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "オカリナ族",
+    "description": "陶製の笛。縄文時代から"
+  },
+  {
+    "id": 589,
+    "name": "鳥笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "鳥の声を模倣する笛"
+  },
+  {
+    "id": 590,
+    "name": "虫笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "虫の音を模倣する笛"
+  },
+  {
+    "id": 591,
+    "name": "呼子",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "信号用の小笛。祭りで使用"
+  },
+  {
+    "id": 592,
+    "name": "楽太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "雅楽の太鼓。装飾的"
+  },
+  {
+    "id": 593,
+    "name": "大太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "大型太鼓。祭りや寺院で使用"
+  },
+  {
+    "id": 594,
+    "name": "宮太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "神社の太鼓。祭礼で使用"
+  },
+  {
+    "id": 595,
+    "name": "桶胴太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "桶型の太鼓。民謡で使用"
+  },
+  {
+    "id": 596,
+    "name": "長胴太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "長い胴の太鼓。和太鼓演奏"
+  },
+  {
+    "id": 597,
+    "name": "附締太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "締め太鼓の一種。能楽で使用"
+  },
+  {
+    "id": 598,
+    "name": "平太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "平たい太鼓。舞楽で使用"
+  },
+  {
+    "id": 599,
+    "name": "団扇太鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "太鼓族",
+    "description": "団扇型の太鼓。神楽で使用"
+  },
+  {
+    "id": 600,
+    "name": "羯鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "羯鼓族",
+    "description": "雅楽の太鼓。両面を桴で打つ"
+  },
+  {
+    "id": 601,
+    "name": "三ノ鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鼓族",
+    "description": "雅楽の鼓。三種類の音"
+  },
+  {
+    "id": 602,
+    "name": "壱鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鼓族",
+    "description": "雅楽の最小の鼓"
+  },
+  {
+    "id": 603,
+    "name": "振鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鼓族",
+    "description": "振って鳴らす太鼓。神楽で使用"
+  },
+  {
+    "id": 604,
+    "name": "鉦鼓",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鉦族",
+    "description": "鉦と太鼓の組み合わせ"
+  },
+  {
+    "id": 605,
+    "name": "雅楽鈴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鈴族",
+    "description": "雅楽で使用する鈴"
+  },
+  {
+    "id": 606,
+    "name": "巫女鈴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鈴族",
+    "description": "巫女舞で使用する鈴"
+  },
+  {
+    "id": 607,
+    "name": "神楽鈴",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鈴族",
+    "description": "神楽で使用する鈴"
+  },
+  {
+    "id": 608,
+    "name": "錫杖",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "錫杖族",
+    "description": "仏教の法具楽器。金属環付き"
+  },
+  {
+    "id": 609,
+    "name": "鳴子",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "鳴子族",
+    "description": "木片を紐で繋いだ楽器。よさこいで使用"
+  },
+  {
+    "id": 610,
+    "name": "びんざさら",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "ささら族",
+    "description": "編木。田楽や獅子舞で使用"
+  },
+  {
+    "id": 611,
+    "name": "こきりこ",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "ささら族",
+    "description": "竹を編んだ楽器。民謡で使用"
+  },
+  {
+    "id": 612,
+    "name": "四つ竹",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "竹族",
+    "description": "4枚の竹片。沖縄の舞踊で使用"
+  },
+  {
+    "id": 613,
+    "name": "三板",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "板族",
+    "description": "3枚の木板。沖縄音楽で使用"
+  },
+  {
+    "id": 614,
+    "name": "指笛",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "笛族",
+    "description": "指で吹く笛。沖縄で発達"
+  },
+  {
+    "id": 615,
+    "name": "鼻笛",
+    "category": "民族楽器",
+    "origin": "世界各地",
+    "family": "笛族",
+    "description": "鼻で吹く笛。ポリネシアなど"
+  },
+  {
+    "id": 616,
+    "name": "口琴",
+    "category": "民族楽器",
+    "origin": "世界各地",
+    "family": "口琴族",
+    "description": "口で共鳴させる楽器。世界中に分布"
+  },
+  {
+    "id": 617,
+    "name": "ジューズハープ",
+    "category": "民族楽器",
+    "origin": "ヨーロッパ",
+    "family": "口琴族",
+    "description": "金属製口琴。西洋の口琴"
+  },
+  {
+    "id": 618,
+    "name": "ムックリ",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "口琴族",
+    "description": "アイヌの竹製口琴"
+  },
+  {
+    "id": 619,
+    "name": "トンコリ",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "トンコリ族",
+    "description": "アイヌの5弦撥弦楽器"
+  },
+  {
+    "id": 620,
+    "name": "ウポポ",
+    "category": "和楽器",
+    "origin": "日本",
+    "family": "その他",
+    "description": "アイヌの輪唱。楽器なし声のみ"
+  },
+  {
+    "id": 621,
+    "name": "琉球箏",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "箏族",
+    "description": "沖縄の13弦箏。本土の箏とは異なる"
+  },
+  {
+    "id": 622,
+    "name": "工工四",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "その他",
+    "description": "沖縄の楽譜体系。楽器ではない"
+  },
+  {
+    "id": 623,
+    "name": "三線クルチ",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "三線族",
+    "description": "沖縄三線の高音版"
+  },
+  {
+    "id": 624,
+    "name": "ウマウイ三線",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "三線族",
+    "description": "最高級の三線"
+  },
+  {
+    "id": 625,
+    "name": "パーランクー",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "太鼓族",
+    "description": "沖縄のエイサー太鼓。片面太鼓"
+  },
+  {
+    "id": 626,
+    "name": "大太鼓(ウフデーク)",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "太鼓族",
+    "description": "エイサーの大太鼓"
+  },
+  {
+    "id": 627,
+    "name": "締太鼓(シメデーク)",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "太鼓族",
+    "description": "エイサーの締太鼓"
+  },
+  {
+    "id": 628,
+    "name": "三味線太鼓",
+    "category": "和楽器",
+    "origin": "日本(奄美)",
+    "family": "太鼓族",
+    "description": "奄美の太鼓。チヂンの別名"
+  },
+  {
+    "id": 629,
+    "name": "チヂン",
+    "category": "和楽器",
+    "origin": "日本(奄美)",
+    "family": "太鼓族",
+    "description": "奄美・沖縄の太鼓"
+  },
+  {
+    "id": 630,
+    "name": "島太鼓",
+    "category": "和楽器",
+    "origin": "日本(沖縄)",
+    "family": "太鼓族",
+    "description": "沖縄各島の太鼓総称"
+  },
+  {
+    "id": 631,
+    "name": "コンドルル",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インドネシア",
+    "family": "リュート族",
+    "description": "ササンドゥの別種。ロテ島"
+  },
+  {
+    "id": 632,
+    "name": "ササンドゥ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インドネシア",
+    "family": "チター族",
+    "description": "ヤシの葉で作る楽器。ロテ島"
+  },
+  {
+    "id": 633,
+    "name": "ハセピ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インドネシア",
+    "family": "リュート族",
+    "description": "2弦のリュート。ニアス島"
+  },
+  {
+    "id": 634,
+    "name": "ダスン",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インドネシア",
+    "family": "笛族",
+    "description": "竹笛。ボルネオ島"
+  },
+  {
+    "id": 635,
+    "name": "クリンタン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "小型ゴングセット。ミンダナオから"
+  },
+  {
+    "id": 636,
+    "name": "アグン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "フィリピン",
+    "family": "ゴング族",
+    "description": "大型ゴング。ミンダナオ島"
+  },
+  {
+    "id": 637,
+    "name": "クリンタング",
+    "category": "打楽器-体鳴楽器",
+    "origin": "フィリピン",
+    "family": "ゴング族",
+    "description": "音階ゴングセット。8個"
+  },
+  {
+    "id": 638,
+    "name": "ガンサ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "フィリピン",
+    "family": "ゴング族",
+    "description": "平ゴング。ルソン島北部"
+  },
+  {
+    "id": 639,
+    "name": "バリンビン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "フィリピン",
+    "family": "竹楽器族",
+    "description": "竹のブザー。パラワン島"
+  },
+  {
+    "id": 640,
+    "name": "クビン",
+    "category": "民族楽器",
+    "origin": "フィリピン",
+    "family": "口琴族",
+    "description": "竹製口琴。ミンダナオ島"
+  },
+  {
+    "id": 641,
+    "name": "クディアピ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "フィリピン",
+    "family": "リュート族",
+    "description": "2弦の船型リュート。パラワン島"
+  },
+  {
+    "id": 642,
+    "name": "オクタビナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "フィリピン",
+    "family": "マンドリン族",
+    "description": "14弦の楽器。スペイン由来"
+  },
+  {
+    "id": 643,
+    "name": "バンドゥリア",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "フィリピン",
+    "family": "バンドゥリア族",
+    "description": "14弦楽器。ロンダリヤで使用"
+  },
+  {
+    "id": 644,
+    "name": "ラウド",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "フィリピン",
+    "family": "リュート族",
+    "description": "フィリピン版リュート"
+  },
+  {
+    "id": 645,
+    "name": "パサイェス",
+    "category": "管楽器-無簧管楽器",
+    "origin": "フィリピン",
+    "family": "笛族",
+    "description": "ひょうたん笛。ミンダナオ島"
+  },
+  {
+    "id": 646,
+    "name": "トゥンパン",
+    "category": "管楽器-無簧管楽器",
+    "origin": "フィリピン",
+    "family": "笛族",
+    "description": "鼻笛。北部ルソン島"
+  },
+  {
+    "id": 647,
+    "name": "サホニ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "フィリピン",
+    "family": "笛族",
+    "description": "6穴の竹笛。ビサヤ諸島"
+  },
+  {
+    "id": 648,
+    "name": "タンブリ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "フィリピン",
+    "family": "笛族",
+    "description": "竹笛。マラナオ族"
+  },
+  {
+    "id": 649,
+    "name": "パレンダグ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "フィリピン",
+    "family": "笛族",
+    "description": "リップフルート。マギンダナオ族"
+  },
+  {
+    "id": 650,
+    "name": "ブディオン",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "フィリピン",
+    "family": "角笛族",
+    "description": "カラバオの角笛"
+  },
+  {
+    "id": 651,
+    "name": "ピトゥ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ミャンマー",
+    "family": "笛族",
+    "description": "竹笛。6穴"
+  },
+  {
+    "id": 652,
+    "name": "フネ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ミャンマー",
+    "family": "笛族",
+    "description": "横笛。宮廷音楽で使用"
+  },
+  {
+    "id": 653,
+    "name": "パレイ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ミャンマー",
+    "family": "笛族",
+    "description": "竹笛。カレン族"
+  },
+  {
+    "id": 654,
+    "name": "タン・ピン",
+    "category": "管楽器-単簧管楽器",
+    "origin": "ミャンマー",
+    "family": "クラリネット族",
+    "description": "単簧管楽器。民族音楽"
+  },
+  {
+    "id": 655,
+    "name": "ダウンサイン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ミャンマー",
+    "family": "リュート族",
+    "description": "2弦撥弦楽器"
+  },
+  {
+    "id": 656,
+    "name": "ミーギャウン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ミャンマー",
+    "family": "チター族",
+    "description": "ワニ型のチター。3弦"
+  },
+  {
+    "id": 657,
+    "name": "パッタラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ミャンマー",
+    "family": "木琴族",
+    "description": "竹製木琴。24音"
+  },
+  {
+    "id": 658,
+    "name": "チーワイン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ミャンマー",
+    "family": "ゴング族",
+    "description": "ゴング円環。21個"
+  },
+  {
+    "id": 659,
+    "name": "マウンサイン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ミャンマー",
+    "family": "ゴング族",
+    "description": "ゴングセット。18-19個"
+  },
+  {
+    "id": 660,
+    "name": "ワレコッ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ミャンマー",
+    "family": "竹楽器族",
+    "description": "竹の打楽器。カチン族"
+  },
+  {
+    "id": 661,
+    "name": "サイン・ワイン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ミャンマー",
+    "family": "太鼓族",
+    "description": "太鼓セット。21個を円形配置"
+  },
+  {
+    "id": 662,
+    "name": "パッマ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ミャンマー",
+    "family": "太鼓族",
+    "description": "大太鼓。宮廷音楽で使用"
+  },
+  {
+    "id": 663,
+    "name": "ブーボワ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ミャンマー",
+    "family": "太鼓族",
+    "description": "長太鼓。両面を叩く"
+  },
+  {
+    "id": 664,
+    "name": "ダウンバッ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ミャンマー",
+    "family": "太鼓族",
+    "description": "両面太鼓。民族音楽"
+  },
+  {
+    "id": 665,
+    "name": "シー",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ミャンマー",
+    "family": "シンバル族",
+    "description": "小型シンバル。仏教音楽"
+  },
+  {
+    "id": 666,
+    "name": "ワ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ミャンマー",
+    "family": "拍子木族",
+    "description": "割竹の拍子木"
+  },
+  {
+    "id": 667,
+    "name": "チャウッローンバッ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ミャンマー",
+    "family": "太鼓族",
+    "description": "6個の太鼓セット"
+  },
+  {
+    "id": 668,
+    "name": "クルリ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "タイ",
+    "family": "笛族",
+    "description": "竹笛。6-7穴"
+  },
+  {
+    "id": 669,
+    "name": "ピー",
+    "category": "管楽器-複簧管楽器",
+    "origin": "タイ",
+    "family": "オーボエ族",
+    "description": "ダブルリード楽器。宮廷音楽"
+  },
+  {
+    "id": 670,
+    "name": "ピーチャワー",
+    "category": "管楽器-複簧管楽器",
+    "origin": "タイ",
+    "family": "オーボエ族",
+    "description": "ジャワ由来のオーボエ"
+  },
+  {
+    "id": 671,
+    "name": "ピーモン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "タイ",
+    "family": "オーボエ族",
+    "description": "モン族のオーボエ"
+  },
+  {
+    "id": 672,
+    "name": "ピーナイ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "タイ",
+    "family": "オーボエ族",
+    "description": "大型オーボエ。野外演奏"
+  },
+  {
+    "id": 673,
+    "name": "チャケー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "タイ",
+    "family": "チター族",
+    "description": "3弦のワニ型チター"
+  },
+  {
+    "id": 674,
+    "name": "ピン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "タイ",
+    "family": "リュート族",
+    "description": "3-4弦の撥弦楽器。イサーン地方"
+  },
+  {
+    "id": 675,
+    "name": "スン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "タイ",
+    "family": "リュート族",
+    "description": "2弦の長ネックリュート"
+  },
+  {
+    "id": 676,
+    "name": "グラジャッププー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "タイ",
+    "family": "リュート族",
+    "description": "4弦の撥弦楽器"
+  },
+  {
+    "id": 677,
+    "name": "ソー・ドゥアン",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "タイ",
+    "family": "二胡族",
+    "description": "2弦の擦弦楽器。高音域"
+  },
+  {
+    "id": 678,
+    "name": "ソー・ウー",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "タイ",
+    "family": "二胡族",
+    "description": "2弦の擦弦楽器。低音域"
+  },
+  {
+    "id": 679,
+    "name": "ソー・サームサーイ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "タイ",
+    "family": "擦弦楽器族",
+    "description": "3弦の擦弦楽器。ココナッツ胴"
+  },
+  {
+    "id": 680,
+    "name": "ラナート・エーク",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "木琴族",
+    "description": "高音木琴。21-22鍵"
+  },
+  {
+    "id": 681,
+    "name": "ラナート・トゥム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "木琴族",
+    "description": "低音木琴。17-18鍵"
+  },
+  {
+    "id": 682,
+    "name": "ラナート・エーク・レック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "鉄琴族",
+    "description": "高音鉄琴。21鍵"
+  },
+  {
+    "id": 683,
+    "name": "ラナート・トゥム・レック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "鉄琴族",
+    "description": "低音鉄琴。17鍵"
+  },
+  {
+    "id": 684,
+    "name": "コーン・ウォン・ヤイ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "ゴング族",
+    "description": "大ゴング輪。16個"
+  },
+  {
+    "id": 685,
+    "name": "コーン・ウォン・レック",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "ゴング族",
+    "description": "小ゴング輪。18個"
+  },
+  {
+    "id": 686,
+    "name": "コーン・モン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "ゴング族",
+    "description": "モン族のゴング"
+  },
+  {
+    "id": 687,
+    "name": "タポーン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タイ",
+    "family": "太鼓族",
+    "description": "両面太鼓。横置きで演奏"
+  },
+  {
+    "id": 688,
+    "name": "トーン・ランマナー",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タイ",
+    "family": "太鼓族",
+    "description": "両面太鼓。立てて演奏"
+  },
+  {
+    "id": 689,
+    "name": "グローンヤーオ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タイ",
+    "family": "太鼓族",
+    "description": "長太鼓。北部タイ"
+  },
+  {
+    "id": 690,
+    "name": "グローンテート",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タイ",
+    "family": "太鼓族",
+    "description": "対の太鼓。宮廷音楽"
+  },
+  {
+    "id": 691,
+    "name": "グローンケーク",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タイ",
+    "family": "太鼓族",
+    "description": "モン族の太鼓。対で演奏"
+  },
+  {
+    "id": 692,
+    "name": "グローンチャナー",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タイ",
+    "family": "太鼓族",
+    "description": "勝利の太鼓。戦争音楽"
+  },
+  {
+    "id": 693,
+    "name": "グローンサバットチャイ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タイ",
+    "family": "太鼓族",
+    "description": "格闘技の太鼓。ムエタイ"
+  },
+  {
+    "id": 694,
+    "name": "チン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "シンバル族",
+    "description": "小型シンバル。宮廷音楽"
+  },
+  {
+    "id": 695,
+    "name": "チャープ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "シンバル族",
+    "description": "大型シンバル。野外演奏"
+  },
+  {
+    "id": 696,
+    "name": "グラップ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "拍子木族",
+    "description": "木製拍子木。リズムキープ"
+  },
+  {
+    "id": 697,
+    "name": "マイ・クローン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "棒族",
+    "description": "太鼓のばち。楽器として使用"
+  },
+  {
+    "id": 698,
+    "name": "モーン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "ゴング族",
+    "description": "大型銅鑼。仏教寺院"
+  },
+  {
+    "id": 699,
+    "name": "ファン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "鈴族",
+    "description": "真鍮の鈴。舞踊で使用"
+  },
+  {
+    "id": 700,
+    "name": "クローンカップ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タイ",
+    "family": "竹楽器族",
+    "description": "竹筒打楽器。イサーン地方"
+  },
+  {
+    "id": 701,
+    "name": "スロ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ラオス",
+    "family": "笛族",
+    "description": "竹製縦笛。6穴"
+  },
+  {
+    "id": 702,
+    "name": "ピー・ラオ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ラオス",
+    "family": "オーボエ族",
+    "description": "ラオスのダブルリード楽器"
+  },
+  {
+    "id": 703,
+    "name": "ケーン・ベー",
+    "category": "管楽器-多管楽器",
+    "origin": "ラオス",
+    "family": "ケーン族",
+    "description": "大型ケーン。16管"
+  },
+  {
+    "id": 704,
+    "name": "ケーン・ホイ",
+    "category": "管楽器-多管楽器",
+    "origin": "ラオス",
+    "family": "ケーン族",
+    "description": "小型ケーン。6管"
+  },
+  {
+    "id": 705,
+    "name": "ピン・ハイ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ラオス",
+    "family": "リュート族",
+    "description": "2弦の撥弦楽器"
+  },
+  {
+    "id": 706,
+    "name": "ピン・ナム・タオ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ラオス",
+    "family": "リュート族",
+    "description": "1弦の楽器。ひょうたん胴"
+  },
+  {
+    "id": 707,
+    "name": "ラナート",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ラオス",
+    "family": "木琴族",
+    "description": "ラオスの木琴。タイと類似"
+  },
+  {
+    "id": 708,
+    "name": "コーン・ヴォン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ラオス",
+    "family": "ゴング族",
+    "description": "ゴング輪。16個"
+  },
+  {
+    "id": 709,
+    "name": "シン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ラオス",
+    "family": "シンバル族",
+    "description": "手シンバル。仏教音楽"
+  },
+  {
+    "id": 710,
+    "name": "クイ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ベトナム",
+    "family": "笛族",
+    "description": "竹製縦笛。民族音楽"
+  },
+  {
+    "id": 711,
+    "name": "ソアイ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ベトナム",
+    "family": "笛族",
+    "description": "横笛。宮廷音楽で使用"
+  },
+  {
+    "id": 712,
+    "name": "ティエウ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ベトナム",
+    "family": "笛族",
+    "description": "縦笛。文人音楽"
+  },
+  {
+    "id": 713,
+    "name": "ケン・バウ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ベトナム",
+    "family": "オーボエ族",
+    "description": "ダブルリード楽器"
+  },
+  {
+    "id": 714,
+    "name": "ダン・バウ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ベトナム",
+    "family": "一弦琴族",
+    "description": "1弦楽器。独特の音程変化"
+  },
+  {
+    "id": 715,
+    "name": "ダン・グエット",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ベトナム",
+    "family": "リュート族",
+    "description": "月琴。2弦または4弦"
+  },
+  {
+    "id": 716,
+    "name": "ダン・ティ・バ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ベトナム",
+    "family": "リュート族",
+    "description": "梨型4弦楽器"
+  },
+  {
+    "id": 717,
+    "name": "ダン・セン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ベトナム",
+    "family": "リュート族",
+    "description": "2弦の撥弦楽器"
+  },
+  {
+    "id": 718,
+    "name": "ダン・タム",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ベトナム",
+    "family": "三弦族",
+    "description": "3弦の撥弦楽器"
+  },
+  {
+    "id": 719,
+    "name": "ダン・ニー",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ベトナム",
+    "family": "二胡族",
+    "description": "2弦擦弦楽器。中国二胡の影響"
+  },
+  {
+    "id": 720,
+    "name": "ダン・ガオ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ベトナム",
+    "family": "二胡族",
+    "description": "ココナッツ胴の擦弦楽器"
+  },
+  {
+    "id": 721,
+    "name": "ダン・チャン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ベトナム",
+    "family": "チター族",
+    "description": "16弦のチター"
+  },
+  {
+    "id": 722,
+    "name": "ダン・トゥン",
+    "category": "弦楽器-打弦楽器",
+    "origin": "ベトナム",
+    "family": "ダルシマー族",
+    "description": "36弦の打弦楽器"
+  },
+  {
+    "id": 723,
+    "name": "トゥルン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ベトナム",
+    "family": "竹楽器族",
+    "description": "竹琴。中部高地民族"
+  },
+  {
+    "id": 724,
+    "name": "チン・ナム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ベトナム",
+    "family": "竹楽器族",
+    "description": "竹の打楽器。少数民族"
+  },
+  {
+    "id": 725,
+    "name": "コン・チェン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ベトナム",
+    "family": "ゴング族",
+    "description": "ゴングセット。中部高地"
+  },
+  {
+    "id": 726,
+    "name": "チョン・コム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ベトナム",
+    "family": "太鼓族",
+    "description": "樽型太鼓。民族音楽"
+  },
+  {
+    "id": 727,
+    "name": "チョン・チャウ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ベトナム",
+    "family": "太鼓族",
+    "description": "戦太鼓。大型"
+  },
+  {
+    "id": 728,
+    "name": "サン・ラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ベトナム",
+    "family": "シンバル族",
+    "description": "小型シンバル"
+  },
+  {
+    "id": 729,
+    "name": "フィアット",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ベトナム",
+    "family": "拍子木族",
+    "description": "木製打楽器"
+  },
+  {
+    "id": 730,
+    "name": "モ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ベトナム",
+    "family": "木魚族",
+    "description": "木魚。仏教寺院で使用"
+  },
+  {
+    "id": 731,
+    "name": "スラライ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "カンボジア",
+    "family": "オーボエ族",
+    "description": "クメールのオーボエ"
+  },
+  {
+    "id": 732,
+    "name": "クロイ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "カンボジア",
+    "family": "笛族",
+    "description": "竹製縦笛。6穴"
+  },
+  {
+    "id": 733,
+    "name": "スノン",
+    "category": "管楽器-無簧管楽器",
+    "origin": "カンボジア",
+    "family": "角笛族",
+    "description": "水牛の角笛"
+  },
+  {
+    "id": 734,
+    "name": "トロ・ソウ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "カンボジア",
+    "family": "二胡族",
+    "description": "高音2弦擦弦楽器"
+  },
+  {
+    "id": 735,
+    "name": "トロ・ウー",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "カンボジア",
+    "family": "二胡族",
+    "description": "低音2弦擦弦楽器"
+  },
+  {
+    "id": 736,
+    "name": "トロ・クメール",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "カンボジア",
+    "family": "擦弦楽器族",
+    "description": "3弦擦弦楽器。ココナッツ胴"
+  },
+  {
+    "id": 737,
+    "name": "チャペイ・ドン・ヴェン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "カンボジア",
+    "family": "リュート族",
+    "description": "長ネック2弦楽器"
+  },
+  {
+    "id": 738,
+    "name": "クラペウ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "カンボジア",
+    "family": "リュート族",
+    "description": "3弦撥弦楽器。ワニ型"
+  },
+  {
+    "id": 739,
+    "name": "コン・ヴォン・トーチ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "ゴング族",
+    "description": "小ゴング輪。高音用"
+  },
+  {
+    "id": 740,
+    "name": "コン・ヴォン・トム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "ゴング族",
+    "description": "大ゴング輪。低音用"
+  },
+  {
+    "id": 741,
+    "name": "ロネアット・エク",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "木琴族",
+    "description": "高音木琴。21鍵"
+  },
+  {
+    "id": 742,
+    "name": "ロネアット・トゥン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "木琴族",
+    "description": "低音木琴。17鍵"
+  },
+  {
+    "id": 743,
+    "name": "ロネアット・デク",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "鉄琴族",
+    "description": "鉄琴。21鍵"
+  },
+  {
+    "id": 744,
+    "name": "スコー・トム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "カンボジア",
+    "family": "太鼓族",
+    "description": "対の大太鼓"
+  },
+  {
+    "id": 745,
+    "name": "サンポー",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "カンボジア",
+    "family": "太鼓族",
+    "description": "両面太鼓。横置き"
+  },
+  {
+    "id": 746,
+    "name": "スコー・ダイ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "カンボジア",
+    "family": "太鼓族",
+    "description": "片面太鼓。祭礼で使用"
+  },
+  {
+    "id": 747,
+    "name": "チャップ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "シンバル族",
+    "description": "小型シンバル。ピンペアット合奏"
+  },
+  {
+    "id": 748,
+    "name": "チン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "シンバル族",
+    "description": "大型シンバル。仏教音楽"
+  },
+  {
+    "id": 749,
+    "name": "クラップ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "拍子木族",
+    "description": "竹または木の拍子木"
+  },
+  {
+    "id": 750,
+    "name": "アンドゥン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "カンボジア",
+    "family": "竹楽器族",
+    "description": "竹筒。リズム楽器"
+  },
+  {
+    "id": 751,
+    "name": "リンブ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ネパール",
+    "family": "笛族",
+    "description": "竹製横笛。民族音楽"
+  },
+  {
+    "id": 752,
+    "name": "ムルリ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ネパール",
+    "family": "笛族",
+    "description": "竹製横笛。6穴"
+  },
+  {
+    "id": 753,
+    "name": "ナルシンハ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ネパール",
+    "family": "ホルン族",
+    "description": "C字型金属ホーン。9フィート"
+  },
+  {
+    "id": 754,
+    "name": "カルナール",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ネパール",
+    "family": "ホルン族",
+    "description": "金属製ラッパ。祭礼用"
+  },
+  {
+    "id": 755,
+    "name": "サナイ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ネパール",
+    "family": "オーボエ族",
+    "description": "ダブルリード楽器。結婚式で使用"
+  },
+  {
+    "id": 756,
+    "name": "サーランギ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "ネパール",
+    "family": "サーランギー族",
+    "description": "4弦擦弦楽器。民謡伴奏"
+  },
+  {
+    "id": 757,
+    "name": "アルバジャ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ネパール",
+    "family": "サロード族",
+    "description": "4弦撥弦楽器"
+  },
+  {
+    "id": 758,
+    "name": "トゥンナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "ネパール",
+    "family": "一弦琴族",
+    "description": "1弦の弓楽器"
+  },
+  {
+    "id": 759,
+    "name": "マーダル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ネパール",
+    "family": "太鼓族",
+    "description": "円筒形両面太鼓。民族舞踊"
+  },
+  {
+    "id": 760,
+    "name": "ダマハ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ネパール",
+    "family": "太鼓族",
+    "description": "大型太鼓。祭りで使用"
+  },
+  {
+    "id": 761,
+    "name": "ドーラク",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ネパール",
+    "family": "太鼓族",
+    "description": "両面太鼓。ネワール族"
+  },
+  {
+    "id": 762,
+    "name": "タブラ・バジャ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ネパール",
+    "family": "タブラ族",
+    "description": "ネパール式タブラ"
+  },
+  {
+    "id": 763,
+    "name": "ディメ・バジャ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ネパール",
+    "family": "太鼓族",
+    "description": "大太鼓。寺院で使用"
+  },
+  {
+    "id": 764,
+    "name": "カンタン・ダブダブ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ネパール",
+    "family": "太鼓族",
+    "description": "枠太鼓。シャーマン使用"
+  },
+  {
+    "id": 765,
+    "name": "ジャムジャム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ネパール",
+    "family": "シンバル族",
+    "description": "シンバル。宗教音楽"
+  },
+  {
+    "id": 766,
+    "name": "タール",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ネパール",
+    "family": "シンバル族",
+    "description": "大型シンバル。仏教儀式"
+  },
+  {
+    "id": 767,
+    "name": "ビンバラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ネパール",
+    "family": "鈴族",
+    "description": "真鍮の鈴。舞踊用"
+  },
+  {
+    "id": 768,
+    "name": "カシタール",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ネパール",
+    "family": "シンバル族",
+    "description": "小型シンバル。民謡で使用"
+  },
+  {
+    "id": 769,
+    "name": "エクタレ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "バングラデシュ",
+    "family": "一弦琴族",
+    "description": "1弦楽器。バウル音楽"
+  },
+  {
+    "id": 770,
+    "name": "ドタラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "バングラデシュ",
+    "family": "リュート族",
+    "description": "2弦または4弦楽器"
+  },
+  {
+    "id": 771,
+    "name": "サロード",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "バングラデシュ",
+    "family": "サロード族",
+    "description": "25弦の撥弦楽器。古典音楽"
+  },
+  {
+    "id": 772,
+    "name": "カマック",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "バングラデシュ",
+    "family": "擦弦楽器族",
+    "description": "擦弦楽器。民族音楽"
+  },
+  {
+    "id": 773,
+    "name": "コル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "バングラデシュ",
+    "family": "太鼓族",
+    "description": "片面太鼓。バウル音楽"
+  },
+  {
+    "id": 774,
+    "name": "ドール",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "バングラデシュ",
+    "family": "太鼓族",
+    "description": "両面太鼓。ドゥルガープージャ"
+  },
+  {
+    "id": 775,
+    "name": "ダック",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "バングラデシュ",
+    "family": "太鼓族",
+    "description": "大太鼓。祝祭で使用"
+  },
+  {
+    "id": 776,
+    "name": "マンディラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "バングラデシュ",
+    "family": "シンバル族",
+    "description": "小型シンバル。キルタン音楽"
+  },
+  {
+    "id": 777,
+    "name": "カルタール",
+    "category": "打楽器-体鳴楽器",
+    "origin": "バングラデシュ",
+    "family": "シンバル族",
+    "description": "手シンバル。宗教音楽"
+  },
+  {
+    "id": 778,
+    "name": "ヌプル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "バングラデシュ",
+    "family": "鈴族",
+    "description": "足首鈴。古典舞踊"
+  },
+  {
+    "id": 779,
+    "name": "ガムバン・クロモン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "木琴族",
+    "description": "7音木琴。スンダ音楽"
+  },
+  {
+    "id": 780,
+    "name": "タルムプン",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インドネシア",
+    "family": "笛族",
+    "description": "スンダの竹笛"
+  },
+  {
+    "id": 781,
+    "name": "カチャピ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インドネシア",
+    "family": "チター族",
+    "description": "スンダのボートチター。15-20弦"
+  },
+  {
+    "id": 782,
+    "name": "ジェングロン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "大ゴング。スンダ音楽"
+  },
+  {
+    "id": 783,
+    "name": "ゴオン・レンタン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "吊りゴングセット。スンダ"
+  },
+  {
+    "id": 784,
+    "name": "クンダン・プンチャック",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "太鼓セット。スンダ音楽"
+  },
+  {
+    "id": 785,
+    "name": "ルバブ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インドネシア",
+    "family": "擦弦楽器族",
+    "description": "2弦擦弦楽器。スンダ音楽"
+  },
+  {
+    "id": 786,
+    "name": "カルニン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "小型ゴング。ジャワ音楽"
+  },
+  {
+    "id": 787,
+    "name": "グンブレン",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "バリの小編成ガムラン"
+  },
+  {
+    "id": 788,
+    "name": "タワ・タワ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インドネシア",
+    "family": "ゴング族",
+    "description": "小ゴング。スラウェシ島"
+  },
+  {
+    "id": 789,
+    "name": "ガンディン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "両面太鼓。カリマンタン"
+  },
+  {
+    "id": 790,
+    "name": "ゲンダン・メラユ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "マレー太鼓。リアウ州"
+  },
+  {
+    "id": 791,
+    "name": "ラパイ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "枠太鼓。アチェ州"
+  },
+  {
+    "id": 792,
+    "name": "ジドール",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "大太鼓。ジャワ島"
+  },
+  {
+    "id": 793,
+    "name": "トレベン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "太鼓。ロンボク島"
+  },
+  {
+    "id": 794,
+    "name": "タサ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "小太鼓セット。西スマトラ"
+  },
+  {
+    "id": 795,
+    "name": "カテン・テン",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インドネシア",
+    "family": "太鼓族",
+    "description": "小太鼓。北スマトラ"
+  },
+  {
+    "id": 796,
+    "name": "ゴーラム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "パプアニューギニア",
+    "family": "太鼓族",
+    "description": "砂時計型太鼓。クンドゥ"
+  },
+  {
+    "id": 797,
+    "name": "ピドゥ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "パプアニューギニア",
+    "family": "笛族",
+    "description": "竹笛。セピック地方"
+  },
+  {
+    "id": 798,
+    "name": "ススアップ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "パプアニューギニア",
+    "family": "パンフルート族",
+    "description": "パンフルート。高地族"
+  },
+  {
+    "id": 799,
+    "name": "ラリ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "パプアニューギニア",
+    "family": "スリットドラム族",
+    "description": "スリットドラム。通信用"
+  },
+  {
+    "id": 800,
+    "name": "タンゲッツ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "パプアニューギニア",
+    "family": "弓楽器族",
+    "description": "音楽弓。ニューブリテン島"
+  },
+  {
+    "id": 801,
+    "name": "ノーズフルート",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ハワイ",
+    "family": "笛族",
+    "description": "鼻笛。オヘ・ハノ・イフ"
+  },
+  {
+    "id": 802,
+    "name": "イプ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ハワイ",
+    "family": "ひょうたん族",
+    "description": "ひょうたん太鼓。フラダンス"
+  },
+  {
+    "id": 803,
+    "name": "イプヘケ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ハワイ",
+    "family": "ひょうたん族",
+    "description": "ダブルひょうたん。フラ伴奏"
+  },
+  {
+    "id": 804,
+    "name": "パフ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ハワイ",
+    "family": "太鼓族",
+    "description": "シャークスキンドラム。神聖な楽器"
+  },
+  {
+    "id": 805,
+    "name": "プイリ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ハワイ",
+    "family": "竹楽器族",
+    "description": "割竹スティック。フラダンス"
+  },
+  {
+    "id": 806,
+    "name": "ウリウリ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ハワイ",
+    "family": "マラカス族",
+    "description": "羽根付きマラカス。フラの小道具"
+  },
+  {
+    "id": 807,
+    "name": "イリイリ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ハワイ",
+    "family": "石楽器族",
+    "description": "石のカスタネット。古代フラ"
+  },
+  {
+    "id": 808,
+    "name": "オヘ・カパラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ハワイ",
+    "family": "竹楽器族",
+    "description": "竹のスタンピングチューブ"
+  },
+  {
+    "id": 809,
+    "name": "カアエケエケ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "ハワイ",
+    "family": "竹楽器族",
+    "description": "竹の打楽器。リズムスティック"
+  },
+  {
+    "id": 810,
+    "name": "パアタ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タヒチ",
+    "family": "スリットドラム族",
+    "description": "木製スリットドラム。伝統舞踊"
+  },
+  {
+    "id": 811,
+    "name": "ヴィヴォ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "タヒチ",
+    "family": "笛族",
+    "description": "竹製鼻笛。ポリネシア"
+  },
+  {
+    "id": 812,
+    "name": "トエレ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タヒチ",
+    "family": "太鼓族",
+    "description": "シャークスキンドラム。祭礼用"
+  },
+  {
+    "id": 813,
+    "name": "タリ・パラウ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "タヒチ",
+    "family": "太鼓族",
+    "description": "大太鼓。オテア舞踊"
+  },
+  {
+    "id": 814,
+    "name": "イハラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "タヒチ",
+    "family": "竹楽器族",
+    "description": "割竹楽器。打楽器"
+  },
+  {
+    "id": 815,
+    "name": "ラパ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "クック諸島",
+    "family": "太鼓族",
+    "description": "山羊皮の太鼓"
+  },
+  {
+    "id": 816,
+    "name": "パテ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "サモア",
+    "family": "スリットドラム族",
+    "description": "木製スリットドラム"
+  },
+  {
+    "id": 817,
+    "name": "ファラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "サモア",
+    "family": "マット族",
+    "description": "巻いたマットを叩く楽器"
+  },
+  {
+    "id": 818,
+    "name": "ロゴロゴ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "フィジー",
+    "family": "スリットドラム族",
+    "description": "大型スリットドラム。通信用"
+  },
+  {
+    "id": 819,
+    "name": "ラリ・ニ・メケ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "フィジー",
+    "family": "太鼓族",
+    "description": "メケ舞踊の太鼓"
+  },
+  {
+    "id": 820,
+    "name": "ダヴイ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "フィジー",
+    "family": "竹楽器族",
+    "description": "竹筒打楽器。スタンピングチューブ"
+  },
+  {
+    "id": 821,
+    "name": "ナファ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "トンガ",
+    "family": "太鼓族",
+    "description": "大太鼓。王室音楽"
+  },
+  {
+    "id": 822,
+    "name": "ファンガファンガ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "トンガ",
+    "family": "笛族",
+    "description": "鼻笛。ポリネシア伝統"
+  },
+  {
+    "id": 823,
+    "name": "ミミハ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "トンガ",
+    "family": "笛族",
+    "description": "竹笛。6穴"
+  },
+  {
+    "id": 824,
+    "name": "コンク・シェル",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "ポリネシア",
+    "family": "法螺族",
+    "description": "巻貝ラッパ。プー"
+  },
+  {
+    "id": 825,
+    "name": "ウクレレ・タヒチ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "タヒチ",
+    "family": "ウクレレ族",
+    "description": "8弦ウクレレ。タヒチアン音楽"
+  },
+  {
+    "id": 826,
+    "name": "バンジョーウクレレ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ・ハワイ",
+    "family": "バンジョー族",
+    "description": "バンジョー胴のウクレレ"
+  },
+  {
+    "id": 827,
+    "name": "スチールギター",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "横置きスライドギター。ハワイアン"
+  },
+  {
+    "id": 828,
+    "name": "ラップスチール",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "膝置きスチールギター"
+  },
+  {
+    "id": 829,
+    "name": "ペダルスチール",
+    "category": "電気楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "ペダル付きスチールギター。カントリー"
+  },
+  {
+    "id": 830,
+    "name": "ドブロ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "共鳴器付きギター。ブルーグラス"
+  },
+  {
+    "id": 831,
+    "name": "リゾネーターギター",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "ギター族",
+    "description": "金属共鳴器ギター。ナショナル"
+  },
+  {
+    "id": 832,
+    "name": "マンドチェロ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "マンドリン族",
+    "description": "チェロ音域のマンドリン"
+  },
+  {
+    "id": 833,
+    "name": "マンドベース",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "マンドリン族",
+    "description": "ベース音域のマンドリン"
+  },
+  {
+    "id": 834,
+    "name": "オクターブマンドリン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アイルランド",
+    "family": "マンドリン族",
+    "description": "低音マンドリン。ケルト音楽"
+  },
+  {
+    "id": 835,
+    "name": "シターバンジョー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イギリス",
+    "family": "バンジョー族",
+    "description": "チター式バンジョー。6弦"
+  },
+  {
+    "id": 836,
+    "name": "テナーバンジョー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "バンジョー族",
+    "description": "4弦バンジョー。ジャズで使用"
+  },
+  {
+    "id": 837,
+    "name": "プレクトラムバンジョー",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "バンジョー族",
+    "description": "4弦バンジョー。22フレット"
+  },
+  {
+    "id": 838,
+    "name": "バンジョリン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "バンジョー族",
+    "description": "マンドリン調弦のバンジョー"
+  },
+  {
+    "id": 839,
+    "name": "バンジョーマンドリン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アメリカ",
+    "family": "バンジョー族",
+    "description": "8弦のバンジョー。マンドリン音域"
+  },
+  {
+    "id": 840,
+    "name": "カマンチェ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イラン",
+    "family": "カマンチェ族",
+    "description": "スパイク付き擦弦楽器。4弦"
+  },
+  {
+    "id": 841,
+    "name": "ゲイチャク",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イラン",
+    "family": "ゲイチャク族",
+    "description": "4弦擦弦楽器。金属弦"
+  },
+  {
+    "id": 842,
+    "name": "ソルナイ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "イラン",
+    "family": "ズルナ族",
+    "description": "ペルシャのオーボエ"
+  },
+  {
+    "id": 843,
+    "name": "ネイ・アンバン",
+    "category": "管楽器-無簧管楽器",
+    "origin": "イラン",
+    "family": "ナーイ族",
+    "description": "ペルシャの大型ナーイ"
+  },
+  {
+    "id": 844,
+    "name": "バラバン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "イラン",
+    "family": "バラバン族",
+    "description": "円筒形ダブルリード楽器"
+  },
+  {
+    "id": 845,
+    "name": "ダフ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "イラン",
+    "family": "枠太鼓族",
+    "description": "枠太鼓。金属リング付き"
+  },
+  {
+    "id": 846,
+    "name": "ダイェレ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "イラン",
+    "family": "枠太鼓族",
+    "description": "中型枠太鼓。クルド音楽"
+  },
+  {
+    "id": 847,
+    "name": "タス",
+    "category": "打楽器-体鳴楽器",
+    "origin": "イラン",
+    "family": "皿族",
+    "description": "真鍮の皿。宗教音楽"
+  },
+  {
+    "id": 848,
+    "name": "センジ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "イラン",
+    "family": "シンバル族",
+    "description": "指シンバル。古典舞踊"
+  },
+  {
+    "id": 849,
+    "name": "ザング",
+    "category": "打楽器-体鳴楽器",
+    "origin": "イラン",
+    "family": "シンバル族",
+    "description": "小型シンバル。民俗音楽"
+  },
+  {
+    "id": 850,
+    "name": "カルカベ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "イラン",
+    "family": "カスタネット族",
+    "description": "金属カスタネット"
+  },
+  {
+    "id": 851,
+    "name": "ナガラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アフガニスタン",
+    "family": "太鼓族",
+    "description": "釜型太鼓。対で演奏"
+  },
+  {
+    "id": 852,
+    "name": "ゼルバガリ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アフガニスタン",
+    "family": "太鼓族",
+    "description": "杯型太鼓。粘土製"
+  },
+  {
+    "id": 853,
+    "name": "ダイラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アフガニスタン",
+    "family": "枠太鼓族",
+    "description": "枠太鼓。民謡で使用"
+  },
+  {
+    "id": 854,
+    "name": "ルバーブ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アフガニスタン",
+    "family": "リュート族",
+    "description": "アフガン国民楽器。短ネック"
+  },
+  {
+    "id": 855,
+    "name": "タンブール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アフガニスタン",
+    "family": "タンブール族",
+    "description": "長ネック撥弦楽器。14弦"
+  },
+  {
+    "id": 856,
+    "name": "ディルルバ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "アフガニスタン",
+    "family": "ディルルバ族",
+    "description": "擦弦楽器。パキスタンと共通"
+  },
+  {
+    "id": 857,
+    "name": "デラック",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アフガニスタン",
+    "family": "弓楽器族",
+    "description": "弓楽器。2弦"
+  },
+  {
+    "id": 858,
+    "name": "ギチャク",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "アフガニスタン",
+    "family": "擦弦楽器族",
+    "description": "金属缶胴の擦弦楽器"
+  },
+  {
+    "id": 859,
+    "name": "ツングナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アフガニスタン",
+    "family": "口琴族",
+    "description": "口琴。金属製"
+  },
+  {
+    "id": 860,
+    "name": "トゥーラ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "アフガニスタン",
+    "family": "笛族",
+    "description": "木製横笛。6穴"
+  },
+  {
+    "id": 861,
+    "name": "シムシャル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "アフガニスタン",
+    "family": "笛族",
+    "description": "葦笛。羊飼いの楽器"
+  },
+  {
+    "id": 862,
+    "name": "ソルナ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "アフガニスタン",
+    "family": "ズルナ族",
+    "description": "ダブルリード楽器。野外演奏"
+  },
+  {
+    "id": 863,
+    "name": "タブラ・アフガニ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アフガニスタン",
+    "family": "タブラ族",
+    "description": "アフガン式タブラ"
+  },
+  {
+    "id": 864,
+    "name": "アタル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アフガニスタン",
+    "family": "太鼓族",
+    "description": "両面太鼓。パシュトゥーン音楽"
+  },
+  {
+    "id": 865,
+    "name": "チムタ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "パキスタン",
+    "family": "トング族",
+    "description": "火ばさみ型楽器。小シンバル付き"
+  },
+  {
+    "id": 866,
+    "name": "アルゴーザ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "パキスタン",
+    "family": "笛族",
+    "description": "2本組の縦笛。パンジャブ"
+  },
+  {
+    "id": 867,
+    "name": "ベーン",
+    "category": "管楽器-無簧管楽器",
+    "origin": "パキスタン",
+    "family": "笛族",
+    "description": "蛇使いの笛。ラジャスタン"
+  },
+  {
+    "id": 868,
+    "name": "マシャック",
+    "category": "管楽器-多管楽器",
+    "origin": "パキスタン",
+    "family": "バグパイプ族",
+    "description": "パンジャブのバグパイプ"
+  },
+  {
+    "id": 869,
+    "name": "ドール・シンディー",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "パキスタン",
+    "family": "太鼓族",
+    "description": "シンド州の両面太鼓"
+  },
+  {
+    "id": 870,
+    "name": "ナール",
+    "category": "管楽器-無簧管楽器",
+    "origin": "パキスタン",
+    "family": "笛族",
+    "description": "シンド州の縦笛"
+  },
+  {
+    "id": 871,
+    "name": "ボッロ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "パキスタン",
+    "family": "笛族",
+    "description": "シンド州の粘土笛"
+  },
+  {
+    "id": 872,
+    "name": "チャープ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "パキスタン",
+    "family": "弓楽器族",
+    "description": "シンド州の弓楽器"
+  },
+  {
+    "id": 873,
+    "name": "ヤクタロ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "パキスタン",
+    "family": "一弦琴族",
+    "description": "1弦楽器。シンド州"
+  },
+  {
+    "id": 874,
+    "name": "タンバル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "パキスタン",
+    "family": "太鼓族",
+    "description": "樽型太鼓。バローチスタン"
+  },
+  {
+    "id": 875,
+    "name": "スルナイ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "パキスタン",
+    "family": "ズルナ族",
+    "description": "バローチのダブルリード楽器"
+  },
+  {
+    "id": 876,
+    "name": "ドンブーラク",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "パキスタン",
+    "family": "リュート族",
+    "description": "バローチの長ネック楽器"
+  },
+  {
+    "id": 877,
+    "name": "ソーズ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "パキスタン",
+    "family": "サーズ族",
+    "description": "カシミールの100弦楽器"
+  },
+  {
+    "id": 878,
+    "name": "ラバーバ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "パキスタン",
+    "family": "ラバーブ族",
+    "description": "カシミールの擦弦楽器"
+  },
+  {
+    "id": 879,
+    "name": "トゥンバクナリ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "パキスタン",
+    "family": "太鼓族",
+    "description": "カシミールの小太鼓"
+  },
+  {
+    "id": 880,
+    "name": "ノート",
+    "category": "管楽器-無簧管楽器",
+    "origin": "パキスタン",
+    "family": "笛族",
+    "description": "カシミールの葦笛"
+  },
+  {
+    "id": 881,
+    "name": "スワルマンダル",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "チター族",
+    "description": "36弦のチター。声楽伴奏"
+  },
+  {
+    "id": 882,
+    "name": "ジャルタラング",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "水楽器族",
+    "description": "水を入れた磁器碗。音階楽器"
+  },
+  {
+    "id": 883,
+    "name": "カシュタ・タラング",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "木楽器族",
+    "description": "木片の音階楽器"
+  },
+  {
+    "id": 884,
+    "name": "モーハン・ヴィーナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "ギター族",
+    "description": "改良スライドギター。20弦"
+  },
+  {
+    "id": 885,
+    "name": "ハンサ・ヴィーナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "ヴィーナー族",
+    "description": "北インドのヴィーナー"
+  },
+  {
+    "id": 886,
+    "name": "ヴィチトラ・ヴィーナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "チター族",
+    "description": "100弦のチター。フレットなし"
+  },
+  {
+    "id": 887,
+    "name": "ゴッドゥ・ヴァディヤム",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "一弦琴族",
+    "description": "テルグの1弦楽器"
+  },
+  {
+    "id": 888,
+    "name": "キンナリ・ヴィーナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "ヴィーナー族",
+    "description": "竹筒のヴィーナー"
+  },
+  {
+    "id": 889,
+    "name": "プラヴィーナ・ヴィーナ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "ヴィーナー族",
+    "description": "アーンドラの弦楽器"
+  },
+  {
+    "id": 890,
+    "name": "ヤージュ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "弓楽器族",
+    "description": "弓楽器。ラジャスタン"
+  },
+  {
+    "id": 891,
+    "name": "ラーヴァナハッタ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "ラジャスタンの擦弦楽器"
+  },
+  {
+    "id": 892,
+    "name": "カマイチャ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "ラジャスタンの擦弦楽器。球形胴"
+  },
+  {
+    "id": 893,
+    "name": "ジョギア・サーランギー",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "サーランギー族",
+    "description": "ラジャスタンのサーランギー"
+  },
+  {
+    "id": 894,
+    "name": "ディルバ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "ディルルバ族",
+    "description": "エスラジに似た擦弦楽器"
+  },
+  {
+    "id": 895,
+    "name": "マユリ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "孔雀型の擦弦楽器"
+  },
+  {
+    "id": 896,
+    "name": "オナヴィール",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "ケララの擦弦楽器"
+  },
+  {
+    "id": 897,
+    "name": "プッルヴァン・ヴィーナ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "ケララの1弦擦弦楽器"
+  },
+  {
+    "id": 898,
+    "name": "ペーナ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "マニプールの擦弦楽器"
+  },
+  {
+    "id": 899,
+    "name": "チカラ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "ベンガルの3弦擦弦楽器"
+  },
+  {
+    "id": 900,
+    "name": "サリンダ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "インド",
+    "family": "擦弦楽器族",
+    "description": "民族的擦弦楽器。3弦"
+  },
+  {
+    "id": 901,
+    "name": "ベラ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インド",
+    "family": "笛族",
+    "description": "ラジャスタンの横笛"
+  },
+  {
+    "id": 902,
+    "name": "アルゴジャ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インド",
+    "family": "笛族",
+    "description": "2本組の笛。ラジャスタン"
+  },
+  {
+    "id": 903,
+    "name": "サトラ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "インド",
+    "family": "笛族",
+    "description": "ラジャスタンの2本笛"
+  },
+  {
+    "id": 904,
+    "name": "モールチャング",
+    "category": "民族楽器",
+    "origin": "インド",
+    "family": "口琴族",
+    "description": "ラジャスタンの口琴"
+  },
+  {
+    "id": 905,
+    "name": "パカワジ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "北インドの両面太鼓。ドゥルパド"
+  },
+  {
+    "id": 906,
+    "name": "クンジラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "枠太鼓族",
+    "description": "南インドの枠太鼓。トカゲ皮"
+  },
+  {
+    "id": 907,
+    "name": "チャンダ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "大太鼓。宗教行進で使用"
+  },
+  {
+    "id": 908,
+    "name": "ティンプトゥ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "グジャラートの太鼓"
+  },
+  {
+    "id": 909,
+    "name": "イダッカ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "ケララの砂時計型太鼓"
+  },
+  {
+    "id": 910,
+    "name": "チェンダ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "ケララの円筒太鼓"
+  },
+  {
+    "id": 911,
+    "name": "ミザブ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "ケララの大太鼓"
+  },
+  {
+    "id": 912,
+    "name": "マッダラム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "ケララの両面太鼓。寺院音楽"
+  },
+  {
+    "id": 913,
+    "name": "パニ・マッダラム",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "水太鼓。音程変化可能"
+  },
+  {
+    "id": 914,
+    "name": "ティミラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "砂時計型太鼓。寺院音楽"
+  },
+  {
+    "id": 915,
+    "name": "ウドゥカイ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "タミルナドゥの砂時計太鼓"
+  },
+  {
+    "id": 916,
+    "name": "パライ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "タミルナドゥの枠太鼓"
+  },
+  {
+    "id": 917,
+    "name": "タヴィル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "タミルナドゥの両面太鼓"
+  },
+  {
+    "id": 918,
+    "name": "ウルミ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "タミルナドゥの太鼓"
+  },
+  {
+    "id": 919,
+    "name": "パンバイ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "対の太鼓。タミルナドゥ"
+  },
+  {
+    "id": 920,
+    "name": "ムラス",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "タミルナドゥの宗教太鼓"
+  },
+  {
+    "id": 921,
+    "name": "ドゥムル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "ベンガルの小太鼓。ダムル"
+  },
+  {
+    "id": 922,
+    "name": "カラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "ベンガルの両面太鼓"
+  },
+  {
+    "id": 923,
+    "name": "マドル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "ベンガルのバレル太鼓"
+  },
+  {
+    "id": 924,
+    "name": "ダック",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "オディシャの太鼓"
+  },
+  {
+    "id": 925,
+    "name": "ナガラ・ディプチ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "インド",
+    "family": "太鼓族",
+    "description": "アッサムの太鼓セット"
+  },
+  {
+    "id": 926,
+    "name": "ペパ",
+    "category": "管楽器-唇簧管楽器",
+    "origin": "インド",
+    "family": "角笛族",
+    "description": "アッサムの水牛角笛"
+  },
+  {
+    "id": 927,
+    "name": "ゴガナ",
+    "category": "民族楽器",
+    "origin": "インド",
+    "family": "口琴族",
+    "description": "アッサムの竹製口琴"
+  },
+  {
+    "id": 928,
+    "name": "トカ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "一弦琴族",
+    "description": "アッサムの1弦楽器"
+  },
+  {
+    "id": 929,
+    "name": "ドトラ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "リュート族",
+    "description": "アッサムの4-5弦楽器"
+  },
+  {
+    "id": 930,
+    "name": "サルダ・マンダル",
+    "category": "弦楽器-打弦楽器",
+    "origin": "インド",
+    "family": "ダルシマー族",
+    "description": "インドのダルシマー。100弦"
+  },
+  {
+    "id": 931,
+    "name": "ガグリ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "壺楽器族",
+    "description": "水瓶打楽器。ラジャスタン"
+  },
+  {
+    "id": 932,
+    "name": "マンジーラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "シンバル族",
+    "description": "小型シンバル。寺院音楽"
+  },
+  {
+    "id": 933,
+    "name": "ジャルジャラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "シンバル族",
+    "description": "シンバル。オリッサ"
+  },
+  {
+    "id": 934,
+    "name": "タラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "シンバル族",
+    "description": "南インドのシンバル"
+  },
+  {
+    "id": 935,
+    "name": "イラタラム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "シンバル族",
+    "description": "ケララのシンバル"
+  },
+  {
+    "id": 936,
+    "name": "クジャル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "シンバル族",
+    "description": "大型シンバル。ケララ"
+  },
+  {
+    "id": 937,
+    "name": "チメター",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "トング族",
+    "description": "火ばさみ楽器。パンジャブ"
+  },
+  {
+    "id": 938,
+    "name": "カルタル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "拍子木族",
+    "description": "木製カスタネット。ラジャスタン"
+  },
+  {
+    "id": 939,
+    "name": "チプリ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "拍子木族",
+    "description": "木製打楽器。民俗音楽"
+  },
+  {
+    "id": 940,
+    "name": "モルチャン",
+    "category": "民族楽器",
+    "origin": "インド",
+    "family": "口琴族",
+    "description": "金属口琴。ラジャスタン"
+  },
+  {
+    "id": 941,
+    "name": "グングルー",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "鈴族",
+    "description": "足首鈴。古典舞踊用"
+  },
+  {
+    "id": 942,
+    "name": "パイジェーブ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "鈴族",
+    "description": "足首鈴。カタック舞踊"
+  },
+  {
+    "id": 943,
+    "name": "サランガイ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "鈴族",
+    "description": "足首鈴。バラタナティヤム"
+  },
+  {
+    "id": 944,
+    "name": "チラミーヤ・クージャル",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "鈴族",
+    "description": "足首鈴。カタカリ"
+  },
+  {
+    "id": 945,
+    "name": "ナツバンガム",
+    "category": "打楽器-体鳴楽器",
+    "origin": "インド",
+    "family": "その他",
+    "description": "人体打楽器。南インド古典"
+  },
+  {
+    "id": 946,
+    "name": "コンノコル",
+    "category": "打楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "口唱歌。リズム言語"
+  },
+  {
+    "id": 947,
+    "name": "ボル",
+    "category": "打楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "タブラの口唱歌"
+  },
+  {
+    "id": 948,
+    "name": "ソルカットゥ",
+    "category": "打楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "南インドの口唱歌"
+  },
+  {
+    "id": 949,
+    "name": "タラングバニ",
+    "category": "打楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "金属皿の音階楽器"
+  },
+  {
+    "id": 950,
+    "name": "ラーガ・タランギニ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "チター族",
+    "description": "21弦チター。各弦1音"
+  },
+  {
+    "id": 951,
+    "name": "スライドホイッスル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "アメリカ",
+    "family": "笛族",
+    "description": "スライド式笛。効果音用"
+  },
+  {
+    "id": 952,
+    "name": "ボサノフラウタ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ブラジル",
+    "family": "笛族",
+    "description": "ブラジルの笥笛。ボサノヴァ"
+  },
+  {
+    "id": 953,
+    "name": "クロマチックハーモニカ",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "ハーモニカ族",
+    "description": "半音階ハーモニカ"
+  },
+  {
+    "id": 954,
+    "name": "トレモロハーモニカ",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "ハーモニカ族",
+    "description": "震音ハーモニカ"
+  },
+  {
+    "id": 955,
+    "name": "オクターブハーモニカ",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "ハーモニカ族",
+    "description": "オクターブ音ハーモニカ"
+  },
+  {
+    "id": 956,
+    "name": "コードハーモニカ",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "ハーモニカ族",
+    "description": "和音ハーモニカ"
+  },
+  {
+    "id": 957,
+    "name": "バスハーモニカ",
+    "category": "管楽器-多管楽器",
+    "origin": "ドイツ",
+    "family": "ハーモニカ族",
+    "description": "低音ハーモニカ"
+  },
+  {
+    "id": 958,
+    "name": "ハーモニカ・アンサンブル",
+    "category": "管楽器-多管楽器",
+    "origin": "世界各地",
+    "family": "ハーモニカ族",
+    "description": "複数ハーモニカ演奏"
+  },
+  {
+    "id": 959,
+    "name": "シュラウティ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "インド",
+    "family": "タンブーラ族",
+    "description": "電子タンブーラ"
+  },
+  {
+    "id": 960,
+    "name": "レヘラ",
+    "category": "打楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "電子タブラマシン"
+  },
+  {
+    "id": 961,
+    "name": "タールシェナイ",
+    "category": "管楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "電子シェナイ"
+  },
+  {
+    "id": 962,
+    "name": "スワルペティ",
+    "category": "弦楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "電子ドローン楽器"
+  },
+  {
+    "id": 963,
+    "name": "シュルティボックス",
+    "category": "管楽器-多管楽器",
+    "origin": "インド",
+    "family": "ハーモニウム族",
+    "description": "小型ハーモニウム。ドローン用"
+  },
+  {
+    "id": 964,
+    "name": "タンプーラボックス",
+    "category": "弦楽器-その他",
+    "origin": "インド",
+    "family": "その他",
+    "description": "電子タンプーラ"
+  },
+  {
+    "id": 965,
+    "name": "エレクトリックタンプーラ",
+    "category": "電気楽器",
+    "origin": "インド",
+    "family": "タンブーラ族",
+    "description": "電気タンプーラ"
+  },
+  {
+    "id": 966,
+    "name": "エレクトリックヴィーナ",
+    "category": "電気楽器",
+    "origin": "インド",
+    "family": "ヴィーナー族",
+    "description": "電気ヴィーナ"
+  },
+  {
+    "id": 967,
+    "name": "ジルジラ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "モロッコ",
+    "family": "カスタネット族",
+    "description": "金属カスタネット"
+  },
+  {
+    "id": 968,
+    "name": "トバル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "モロッコ",
+    "family": "太鼓族",
+    "description": "粘土太鼓。バーバー族"
+  },
+  {
+    "id": 969,
+    "name": "タアリジャ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "モロッコ",
+    "family": "太鼓族",
+    "description": "片面太鼓。アンダルシア音楽"
+  },
+  {
+    "id": 970,
+    "name": "ガラル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "スーダン",
+    "family": "笛族",
+    "description": "竹笛。ヌビア音楽"
+  },
+  {
+    "id": 971,
+    "name": "ウンババ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "スーダン",
+    "family": "リラ族",
+    "description": "5弦リラ。ヌビア族"
+  },
+  {
+    "id": 972,
+    "name": "カンブス",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イエメン",
+    "family": "ウード族",
+    "description": "4弦ウード。小型"
+  },
+  {
+    "id": 973,
+    "name": "ミズハル",
+    "category": "管楽器-無簧管楽器",
+    "origin": "イエメン",
+    "family": "笛族",
+    "description": "竹笛。山岳地帯"
+  },
+  {
+    "id": 974,
+    "name": "サハブ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イエメン",
+    "family": "リュート族",
+    "description": "4弦撥弦楽器"
+  },
+  {
+    "id": 975,
+    "name": "マルワス",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "イエメン",
+    "family": "太鼓族",
+    "description": "両面太鼓。結婚式で使用"
+  },
+  {
+    "id": 976,
+    "name": "タサ",
+    "category": "打楽器-体鳴楽器",
+    "origin": "イエメン",
+    "family": "皿族",
+    "description": "真鍮の皿。リズム楽器"
+  },
+  {
+    "id": 977,
+    "name": "カッサバ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "レバノン",
+    "family": "笛族",
+    "description": "葦笛。民謡で使用"
+  },
+  {
+    "id": 978,
+    "name": "ラッバーバ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "レバノン",
+    "family": "擦弦楽器族",
+    "description": "1弦擦弦楽器"
+  },
+  {
+    "id": 979,
+    "name": "ダーブラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "レバノン",
+    "family": "太鼓族",
+    "description": "杯型太鼓。ダブケ舞踊"
+  },
+  {
+    "id": 980,
+    "name": "デルバッケ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "シリア",
+    "family": "太鼓族",
+    "description": "杯型太鼓。都市音楽"
+  },
+  {
+    "id": 981,
+    "name": "ミジュウィズ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "レバノン・シリア",
+    "family": "笛族",
+    "description": "2本組ダブルリード笛"
+  },
+  {
+    "id": 982,
+    "name": "ジョウザ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "イラク",
+    "family": "擦弦楽器族",
+    "description": "4弦擦弦楽器。ココナッツ胴"
+  },
+  {
+    "id": 983,
+    "name": "ハッファ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "イラク",
+    "family": "太鼓族",
+    "description": "枠太鼓。マカーム音楽"
+  },
+  {
+    "id": 984,
+    "name": "チョザ",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "イラク",
+    "family": "サントゥール族",
+    "description": "イラクのサントゥール"
+  },
+  {
+    "id": 985,
+    "name": "バラバン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "アルメニア",
+    "family": "バラバン族",
+    "description": "円筒形ダブルリード楽器"
+  },
+  {
+    "id": 986,
+    "name": "ズルナ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "アルメニア",
+    "family": "ズルナ族",
+    "description": "アルメニアのズルナ"
+  },
+  {
+    "id": 987,
+    "name": "ダフリ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アルメニア",
+    "family": "枠太鼓族",
+    "description": "枠太鼓。民俗舞踊で使用"
+  },
+  {
+    "id": 988,
+    "name": "カノン",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アルメニア",
+    "family": "カーヌーン族",
+    "description": "アルメニアのカーヌーン"
+  },
+  {
+    "id": 989,
+    "name": "ケマンチェ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "アルメニア",
+    "family": "ケマンチェ族",
+    "description": "アルメニアのケマンチェ"
+  },
+  {
+    "id": 990,
+    "name": "タール",
+    "category": "弦楽器-撥弦楽器",
+    "origin": "アゼルバイジャン",
+    "family": "タール族",
+    "description": "アゼルバイジャンのタール"
+  },
+  {
+    "id": 991,
+    "name": "カマンチャ",
+    "category": "弦楽器-擦弦楽器",
+    "origin": "アゼルバイジャン",
+    "family": "カマンチェ族",
+    "description": "アゼルバイジャンのカマンチャ"
+  },
+  {
+    "id": 992,
+    "name": "バラバン",
+    "category": "管楽器-複簧管楽器",
+    "origin": "アゼルバイジャン",
+    "family": "バラバン族",
+    "description": "アゼルバイジャンのバラバン"
+  },
+  {
+    "id": 993,
+    "name": "ナガラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アゼルバイジャン",
+    "family": "ナガラ族",
+    "description": "釜型太鼓。アシュグ音楽"
+  },
+  {
+    "id": 994,
+    "name": "ゴシャ・ナガラ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アゼルバイジャン",
+    "family": "ナガラ族",
+    "description": "対の釜型太鼓"
+  },
+  {
+    "id": 995,
+    "name": "ガヴァル",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アゼルバイジャン",
+    "family": "枠太鼓族",
+    "description": "大型枠太鼓"
+  },
+  {
+    "id": 996,
+    "name": "テフ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "アゼルバイジャン",
+    "family": "枠太鼓族",
+    "description": "小型枠太鼓"
+  },
+  {
+    "id": 997,
+    "name": "ズルナ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ジョージア",
+    "family": "ズルナ族",
+    "description": "ジョージアのズルナ"
+  },
+  {
+    "id": 998,
+    "name": "ドゥドゥキ",
+    "category": "管楽器-複簧管楽器",
+    "origin": "ジョージア",
+    "family": "ドゥドゥク族",
+    "description": "ジョージアのドゥドゥク"
+  },
+  {
+    "id": 999,
+    "name": "サラムリ",
+    "category": "管楽器-無簧管楽器",
+    "origin": "ジョージア",
+    "family": "笛族",
+    "description": "ジョージアの縦笛"
+  },
+  {
+    "id": 1000,
+    "name": "ドーリ",
+    "category": "打楽器-膜鳴楽器",
+    "origin": "ジョージア",
+    "family": "太鼓族",
+    "description": "両面太鼓。舞踊伴奏として使われる"
   }
 ]
